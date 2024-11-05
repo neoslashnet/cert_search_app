@@ -1,5 +1,3 @@
----
-
 # 🛡️ Cybersecurity Certification Search App
 
 **A Flask-based app to explore cybersecurity certifications using data from the [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/). Built as part of my Python learning journey!**
