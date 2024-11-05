@@ -81,7 +81,6 @@ This project was created to help users search for various cybersecurity certific
 Through this project, I:
 - Enhanced my understanding of Python and Flask.
 - Built a practical application with a real-world use case.
-- Gained experience working with JSON data and building a user-friendly UI.
 
 ## 📜 License
 
