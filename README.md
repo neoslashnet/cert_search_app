@@ -19,10 +19,6 @@ This project was created to help users search for various cybersecurity certific
 - **Detailed Results**: Each certification displays its name, description, and a link to learn more.
 - **Data Sourcing**: Uses data sourced from the [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/).
 
-## 🎨 Preview
-
-![App Screenshot](path/to/your/screenshot.png)
-
 ## 📂 Project Structure
 
 ```plaintext
