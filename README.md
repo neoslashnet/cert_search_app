@@ -10,7 +10,7 @@
 
 ## 🚀 About the Project
 
-This project was created to help users search for various cybersecurity certifications and explore relevant information about each. Inspired by the popular Security Certification Roadmap, it’s designed to be simple, sleek, and beginner-friendly. This was also my introduction to web development with Flask!
+This project was created to help users search for various cybersecurity certifications and explore relevant information about each. Inspired by the Security Certification Roadmap, it’s designed to be simple, sleek, and beginner-friendly. This was also my introduction to web development with Flask!
 
 ## 🖥️ Features
 
