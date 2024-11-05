@@ -1,0 +1,2412 @@
+[
+  {
+    "name": "OSEE",
+    "link": "https://www.offensive-security.com/awe-osee/",
+    "details": ""
+  },
+  {
+    "name": "CCIE Sec",
+    "link": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/ccie-security.html",
+    "details": "Cisco Certified Implementation Expert - Security\n    $2,050 Hands-on Lab\n    $12,000 est Travel cost"
+  },
+  {
+    "name": "CREST CRTSA",
+    "link": "https://www.crest-approved.org/examination/technical-security-architecture/index.html",
+    "details": "CREST Registered Technical Security Architect\n    $2,300 two exams\n    In person in the UK"
+  },
+  {
+    "name": "ITIL Master",
+    "link": "https://www.axelos.com/certifications/itil-certifications/itil-master",
+    "details": "ITIL Master\n    $4,000 Interview"
+  },
+  {
+    "name": "OSCE3",
+    "link": "https://help.offensive-security.com/hc/en-us/articles/4403282452628-What-is-OSCE3-",
+    "details": "Offensive Security Certified Expert 3\n    $4,649 3 labs"
+  },
+  {
+    "name": "CCIE Ent",
+    "link": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/ccie-security-v2.html",
+    "details": ""
+  },
+  {
+    "name": "VCDX DCV",
+    "link": "https://www.vmware.com/education-services/certification/vcdx-dcv.html",
+    "details": "VMware Certified Design Expert in Datacenter Virtualization\n    $3,995 exams\n    Application also req."
+  },
+  {
+    "name": "RHCA",
+    "link": "https://www.redhat.com/en/services/certification/rhca",
+    "details": "Red Hat Certified Architect\n    ~$3,745 exam\n    plus travel"
+  },
+  {
+    "name": "SABSA SCM",
+    "link": "https://sabsa.org/certification/",
+    "details": "SABSA Chartered Security Architect - Master Certificate\n    $3,750 exam & thesis\n    Branded course required"
+  },
+  {
+    "name": "GSE",
+    "link": "https://www.giac.org/get-certified/giac-portfolio-certifications/#GSE",
+    "details": "GIAC Security Expert\n    ~$7475 for 10 exams"
+  },
+  {
+    "name": "GREM",
+    "link": "https://www.giac.org/certifications/reverse-engineering-malware-grem/",
+    "details": "GIAC Reverse Engineering Malware\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "OSWE",
+    "link": "https://www.offensive-security.com/awae-oswe/",
+    "details": "Offensive Security Web Expert\n    ~$1649 lab"
+  },
+  {
+    "name": "OSEP",
+    "link": "https://www.offensive-security.com/pen300-osep/",
+    "details": ""
+  },
+  {
+    "name": "OSED",
+    "link": "https://www.offensive-security.com/exp301-osed/",
+    "details": ""
+  },
+  {
+    "name": "PgMP",
+    "link": "https://www.pmi.org/certifications/types/program-management-pgmp",
+    "details": "PMI Program Management Professional\n    $1,000 exam"
+  },
+  {
+    "name": "CISSP Concentrations",
+    "link": "https://www.isc2.org/certifications#Specialized",
+    "details": "(ISC)2 Certified Information Systems Security Professional Concentrations\n    $599 exam"
+  },
+  {
+    "name": "NCSC CCPLP",
+    "link": "https://www.ncsc.gov.uk/information/about-certified-professional-scheme",
+    "details": "NCSC Certified Cybersecurity Professional - Lead Practitioner\n    $1388 interview"
+  },
+  {
+    "name": "CFCE",
+    "link": "https://www.iacis.com/certification/",
+    "details": "IACIS Certified Forensic Computer Examiner\n    $750 4 peer reviewed exams"
+  },
+  {
+    "name": "GXPN",
+    "link": "https://www.giac.org/certification/gxpn",
+    "details": ""
+  },
+  {
+    "name": "VCIX DCV",
+    "link": "https://www.vmware.com/education-services/certification/vcap-dcv-design.html",
+    "details": "VMware Certified Implementation Expert in Datacenter Virtualization\n    $900 two exams"
+  },
+  {
+    "name": "ASIS CPP",
+    "link": "https://www.asisonline.org/certification/certified-protection-professional-cpp/",
+    "details": "ASIS Certified Protection Professional\n    $485 exam"
+  },
+  {
+    "name": "Zach EAPro",
+    "link": "https://www.zachman.com/certification/what-we-certify/enterprise-architect",
+    "details": "Zachman Enterprise Architect Professional (Level 3)\n    $2,999 exam & case study\n    Level 1 & 2 cert not req'd"
+  },
+  {
+    "name": "PMP",
+    "link": "https://www.pmi.org/certifications/project-management-pmp",
+    "details": "PMI Project Management Professional\n    $555 exam"
+  },
+  {
+    "name": "CISM",
+    "link": "https://www.isaca.org/credentialing/cism",
+    "details": "ISACA Certified Information Security Manager\n    $760 exam"
+  },
+  {
+    "name": "S-ISME",
+    "link": "https://www.seco-institute.org/certifications/information-security-certification-track/",
+    "details": "SECO Information Security Management Expert\n    $850 exam"
+  },
+  {
+    "name": "NCSC CCPSP",
+    "link": "https://www.ncsc.gov.uk/information/about-certified-professional-scheme",
+    "details": "NCSC Certified Cybersecurity Professional - Senior Practitioner\n    $907 interview"
+  },
+  {
+    "name": "CSFA",
+    "link": "https://www.csiac.org/certification/cybersecurity-forensic-analyst-csfa-certification/",
+    "details": "CSIAC CyberSecurity Forensic Analyst\n    $750 exam & lab"
+  },
+  {
+    "name": "GIME",
+    "link": "https://www.giac.org/certifications/ios-macos-examiner-gime/",
+    "details": "GIAC iOS and MacOS Examiner\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "GAWN",
+    "link": "https://www.giac.org/certification/gawn",
+    "details": ""
+  },
+  {
+    "name": "CISSP",
+    "link": "https://www.isc2.org/Certifications/CISSP",
+    "details": "(ISC)2 Certified Information Systems Security Professional\n    $749 exam"
+  },
+  {
+    "name": "CCD",
+    "link": "https://cyberdefenders.org/blue-team-training/courses/certified-cyberdefender-certification/",
+    "details": "Certified CyberDefender\n    $800 course\n    2 exam attempt included"
+  },
+  {
+    "name": "CAWFE",
+    "link": "https://www.iacis.com/certification/cawfe/",
+    "details": "IACIS Certified Advanced Windows Forensic Examiner\n    $750 written exam & lab"
+  },
+  {
+    "name": "GCFA",
+    "link": "https://www.giac.org/certification/gcfa",
+    "details": "GIAC Certified Forensic Analyst\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "GCTI",
+    "link": "https://www.giac.org/certification/gcti",
+    "details": "GIAC Cyber Threat Intelligence\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "CREST CSAM",
+    "link": "https://www.crest-approved.org/certification-careers/crest-certifications/crest-certified-simulated-attack-manager",
+    "details": ""
+  },
+  {
+    "name": "JNCIE Sec",
+    "link": "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track/?tab=jnciesec",
+    "details": ""
+  },
+  {
+    "name": "CCDE",
+    "link": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/ccde.html",
+    "details": "Cisco Certified Design Expert\n    ~$1,600 written exam\n    with hands-on lab"
+  },
+  {
+    "name": "AWS SAP",
+    "link": "https://aws.amazon.com/certification/certified-solutions-architect-professional/",
+    "details": "Amazon Web Services Certified Solutions Architect - Professional\n    $300 exam"
+  },
+  {
+    "name": "RHCE",
+    "link": "https://www.redhat.com/en/services/certification/rhce",
+    "details": "Red Hat Certified Engineer\n    $400 exam"
+  },
+  {
+    "name": "GDAT",
+    "link": "https://www.giac.org/certification/defending-advanced-threats-gdat",
+    "details": "GIAC Defending Advanced Threats\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "SC-100",
+    "link": "https://docs.microsoft.com/en-us/certifications/exams/sc-100",
+    "details": "Microsoft Cybersecurity Architect\n    $165 exam"
+  },
+  {
+    "name": "TOGAF",
+    "link": "https://www.opengroup.org/certifications/togaf",
+    "details": "OpenGroup TOGAF Certified\n    $360 exam"
+  },
+  {
+    "name": "CCISO",
+    "link": "https://ciso.eccouncil.org/cciso-certification/",
+    "details": "EC Council Certified Information Security Officer\n    $3,150 course exam\n    Branded course required"
+  },
+  {
+    "name": "EEXIN ISM",
+    "link": "https://www.exin.com/certifications/information-security-management-expert-based-isoiec-27001-exam",
+    "details": "EXIN Information Security Management Expert\n    EST $799 oral exam"
+  },
+  {
+    "name": "GSTRT",
+    "link": "https://www.giac.org/certification/gstrt",
+    "details": "GIAC Strategic Planning, Policy and Leadership\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "NCSC CCPP",
+    "link": "https://www.ncsc.gov.uk/information/about-certified-professional-scheme",
+    "details": "NCSC Certified Cybersecurity Professional - Practitioner\n    $225 interview"
+  },
+  {
+    "name": "GSNA",
+    "link": "https://www.giac.org/certification/gsna",
+    "details": "GIAC Systems and Network Auditor\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "CFSR",
+    "link": "https://www.opentext.com/products-and-solutions/services/training-and-learning-services/encase-training/forensic-security-responder-certification",
+    "details": "OpenText Certified Forensic Security Responder\n    $250 written exam & lab"
+  },
+  {
+    "name": "GNFA",
+    "link": "https://www.giac.org/certification/network-forensic-analyst-gnfa",
+    "details": "GIAC Network Forensic Analyst\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "eWPTX",
+    "link": "https://elearnsecurity.com/product/ewptxv2-certification/",
+    "details": "eLearnSecurity Web Application Penetration Tester eXtreme\n    $400 exam\n    $2000 training"
+  },
+  {
+    "name": "CREST CCSAS",
+    "link": "https://www.crest-approved.org/certification-careers/crest-certifications/crest-certified-simulated-attack-specialist",
+    "details": "CREST Certified Simulated Attack Specialist\n    $2,520 2 exams & lab"
+  },
+  {
+    "name": "FCX",
+    "link": "https://training.fortinet.com/local/staticpage/view.php?page=fcx_cybersecurity",
+    "details": ""
+  },
+  {
+    "name": "AZ-305",
+    "link": "https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect?wt.mc_id=learningredirect_certs-web-wwl",
+    "details": "Microsoft Azure Solutions Architect Expert\n    $330 exam"
+  },
+  {
+    "name": "VCIX NV",
+    "link": "https://www.vmware.com/education-services/certification/vcap-nv-deploy.html",
+    "details": "VMware Certified Implementation Expert in Network Virtualization\n    $900 two exams"
+  },
+  {
+    "name": "LPIC-3",
+    "link": "https://www.lpi.org/our-certifications/lpic-3-303-overview",
+    "details": "Linux Professional Institute Certified: 303 Security\n    $200 exam"
+  },
+  {
+    "name": "SABSA SCP",
+    "link": "https://sabsa.org/certification/",
+    "details": "SABSA Chartered Security Architect - Practitioner Certificate\n    $3,750 written exam\n    Branded course required"
+  },
+  {
+    "name": "PSM III",
+    "link": "https://www.scrum.org/assessments/professional-scrum-master-iii-certification",
+    "details": "Scrum.org Professional Scrum Master III\n    $500 exam\n    Branded course required"
+  },
+  {
+    "name": "GSP",
+    "link": "https://www.giac.org/get-certified/giac-portfolio-certifications/#gsp",
+    "details": "GIAC Security Professional\n    ~$3735 for 5 exams"
+  },
+  {
+    "name": "GISP",
+    "link": "https://www.giac.org/certification/gisp",
+    "details": "GIAC Information Security Professional\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "MTIA",
+    "link": "https://www.mosse-institute.com/certifications/mtia-certified-threat-intelligence-analyst.html",
+    "details": "Mosse Institute Certified Threat Intelligence Analyst Certification\n  $450 certification programme\n  100% practical. No expiry."
+  },
+  {
+    "name": "GCFR",
+    "link": "https://www.giac.org/certifications/cloud-forensics-responder-gcfr/",
+    "details": "GIAC Cloud Forensics Responder\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "BTL2",
+    "link": "https://securityblue.team/btl2/",
+    "details": "Security Blue Team Level 2\n    $2,190 course\n    1 exam attempt included"
+  },
+  {
+    "name": "MRT",
+    "link": "https://www.mosse-institute.com/certifications/mrt-certified-red-teamer.html",
+    "details": "Mosse Institute Certified Red Teamer Certification\n  $450 certification programme\n  100% practical. No expiry."
+  },
+  {
+    "name": "CREST CCTINF",
+    "link": "hhttps://www.crest-approved.org/certification-careers/crest-certifications/crest-certified-infrastructure-tester",
+    "details": "CREST Certified Infrastructure Tester\n    $2,520 exam & lab"
+  },
+  {
+    "name": "HTB CWEE",
+    "link": "https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-expert",
+    "details": "Hack the Box Certified Web Exploitation Expert\n    $1260 Subscription available"
+  },
+  {
+    "name": "Google PCSA",
+    "link": "https://cloud.google.com/certification/cloud-architect",
+    "details": "Google Professional Cloud Architect\n    $200 exam"
+  },
+  {
+    "name": "SCE",
+    "link": "https://www.suse.com/training/exam/sce-sles-15/",
+    "details": "SUSE Certified Engineer\n    $195 practical exam"
+  },
+  {
+    "name": "ISA CE",
+    "link": "https://www.isa.org/training-and-certifications/isa-certification/isa99iec-62443/isa99iec-62443-cybersecurity-certificate-programs/",
+    "details": "ISA Cybersecurity Expert\n    $2,700 course + exam\n    Course required"
+  },
+  {
+    "name": "GDSA",
+    "link": "https://www.giac.org/certification/defensible-security-architecture-gdsa",
+    "details": "GIAC Defensible Security Architecture\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "ITIL SL",
+    "link": "https://www.axelos.com/certifications/itil-certifications/itil-strategic-leader-itil-4",
+    "details": "ITIL Strategic Leader\n    $4,800 two course exams\n    2 branded courses required"
+  },
+  {
+    "name": "Zach EAP",
+    "link": "https://www.zachman.com/certification/what-we-certify/enterprise-architect",
+    "details": "Zachman Enterprise Architect Practitioner (Level 2)\n    $2,999 exam & case study\n    Level 1 cert not req'd"
+  },
+  {
+    "name": "GSLC",
+    "link": "https://www.giac.org/certification/gslc",
+    "details": "GIAC Security Leadership Certification\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "S-CISO",
+    "link": "https://www.seco-institute.org/certifications/information-security-certification-track/",
+    "details": "SECO Certified Information Security Officer\n    Resume review"
+  },
+  {
+    "name": "GCFE",
+    "link": "https://www.giac.org/certification/gcfe",
+    "details": "GIAC Cerified Forensics Examiner\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "GEIR",
+    "link": "https://www.giac.org/certifications/enterprise-incident-responder-geir/",
+    "details": "GIAC Enterprise Incident Response\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "PACES",
+    "link": "https://www.pentesteracademy.com/gcb",
+    "details": "Pentester Academy Certified Enterprise Security Specialist\n    $339-749 Lab access\n    Exam included"
+  },
+  {
+    "name": "S-CEHL",
+    "link": "https://www.seco-institute.org/certifications/ethical-hacking-track/leader/",
+    "details": "SECO Certified Ethical Hacker Leader\n    Application"
+  },
+  {
+    "name": "CREST CRT",
+    "link": "https://www.crest-approved.org/certification-careers/crest-certifications/crest-registered-penetration-tester",
+    "details": "CREST Registered Penetration Tester\n    $612 exam"
+  },
+  {
+    "name": "CRTO II",
+    "link": "https://training.zeropointsecurity.co.uk/courses/red-team-ops-ii",
+    "details": "Zero Point Security Red Team Operator II\n    $121 lab"
+  },
+  {
+    "name": "MCD",
+    "link": "https://www.mosse-institute.com/certifications/mcd-certified-code-deobfuscation-specialist.html",
+    "details": ""
+  },
+  {
+    "name": "CCNP Sec",
+    "link": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-security-v2.html",
+    "details": ""
+  },
+  {
+    "name": "CIMP",
+    "link": "https://www.identitymanagementinstitute.org/cimp/",
+    "details": "Identify Management Institute Certified Identity Management Professional\n    $295 + Membership"
+  },
+  {
+    "name": "CASP+",
+    "link": "https://www.comptia.org/certifications/comptia-advanced-security-practitioner",
+    "details": "CompTIA Advanced Security Practitioner+\n    $509 exam"
+  },
+  {
+    "name": "GASF",
+    "link": "https://www.giac.org/certification/advanced-smartphone-forensics-gasf",
+    "details": "GIAC Advanced Smartphone Forensics\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "eCTHP",
+    "link": "https://security.ine.com/certifications/ecthp-certification/",
+    "details": "eLearnSecurity Certified Threat Hunting Professional\n    $400 lab"
+  },
+  {
+    "name": "S-EHE",
+    "link": "https://www.seco-institute.org/certifications/ethical-hacking-certification-track/",
+    "details": "SECO Ethical Hacker Expert\n    TBD (still)\n    Being redesigned"
+  },
+  {
+    "name": "JNCIP Sec",
+    "link": "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track/?tab=jncip-sec",
+    "details": ""
+  },
+  {
+    "name": "PCNSE",
+    "link": "https://www.paloaltonetworks.com/services/education/certification#pcnse",
+    "details": ""
+  },
+  {
+    "name": "FCSS ZTA",
+    "link": "https://training.fortinet.com/local/staticpage/view.php?page=fcss_zta",
+    "details": "Fortinet Certified Solution Specialist - Zero Trust Access\n    $800 two exams"
+  },
+  {
+    "name": "FCSS SASE",
+    "link": "https://training.fortinet.com/local/staticpage/view.php?page=fcss_SASE",
+    "details": "Fortinet Certified Solution Specialist - Secure Access Service Edge\n    $800 two exams"
+  },
+  {
+    "name": "FCSS PCS",
+    "link": "https://training.fortinet.com/local/staticpage/view.php?page=fcss_public_cloud_security",
+    "details": "Fortinet Certified Solution Specialist - Public Cloud Security\n    $400 exam"
+  },
+  {
+    "name": "GCTD",
+    "link": "https://www.giac.org/certifications/cloud-threat-detection-gctd/",
+    "details": "GIAC Cloud Threat Detection\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "CACE",
+    "link": "https://www.exidacace.com/Apply/CACE",
+    "details": "Excida IEC 62443 Certified Automation Cybersecurity Expert\n    $700 exam"
+  },
+  {
+    "name": "ITIL MP",
+    "link": "https://www.axelos.com/certifications/itil-certifications/itil-managing-professional-itil-4",
+    "details": "ITIL Managing Professional\n    $9,600 4 course exams\n    4 branded courses requires"
+  },
+  {
+    "name": "Scrum SPS",
+    "link": "https://www.scrum.org/scaled-professional-scrum-certification",
+    "details": "Scrum Scaled Professional Scrum\n    $250 exam"
+  },
+  {
+    "name": "GLEG",
+    "link": "https://www.giac.org/certification/law-data-security-investigations-gleg",
+    "details": "GIAC Law of Data Security & Investigations\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "CISSM",
+    "link": "https://gaqm.org/certifications/information_systems_security/cissm",
+    "details": "GAQM Certified Information Systems Security Manager\n    $170 exam"
+  },
+  {
+    "name": "CGRC",
+    "link": "https://www.isc2.org/Certifications/CGRC",
+    "details": "(ISC)2 Certified in Governance, Risk and Compliance\n    $599 exam"
+  },
+  {
+    "name": "CRISC",
+    "link": "https://www.isaca.org/credentialing/crisc",
+    "details": "ISACA Certified in Risk and Information Systems Control\n    $760 exam"
+  },
+  {
+    "name": "GCCC",
+    "link": "https://www.giac.org/certification/critical-controls-certification-gccc",
+    "details": "GIAC Critical Controls Certification\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "PCI QSA",
+    "link": "https://www.pcisecuritystandards.org/assessors_and_solutions/become_qsa/",
+    "details": "PCI Qualified Security Assessor\n                    $3000 req'd course"
+  },
+  {
+    "name": "GWEB",
+    "link": "https://www.giac.org/certification/certified-web-application-defender-gweb",
+    "details": "GIAC Certified Web Application Defender\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "Cisco COP",
+    "link": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/cyberops-professional.html",
+    "details": "Cisco Certified CyberOps Professional\n    $700 two exams"
+  },
+  {
+    "name": "CCFE",
+    "link": "https://app.infosecinstitute.com/portal/courses/a0t1A000009H5RcQAK",
+    "details": "Infosec Institute Certified Computer Forensics Examiner\n    $4,599 exam\n    Course required"
+  },
+  {
+    "name": "GCED",
+    "link": "https://www.giac.org/certification/certified-enterprise-defender-gced",
+    "details": "GIAC Certified Enterprise Defender\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "MCPE",
+    "link": "https://www.mosse-institute.com/certifications/mcpe-certified-cyber-protection-expert.html",
+    "details": "Mosse Institute Certified Cyber Protection Expert\n    $800 exam"
+  },
+  {
+    "name": "CREST CCTIM",
+    "link": "https://www.crest-approved.org/certification-careers/crest-certifications/crest-certified-threat-intelligence-manager",
+    "details": "CREST Certified Threat Intelligence Manager\n    $2,480 3 exams"
+  },
+  {
+    "name": "OSCP",
+    "link": "https://www.offensive-security.com/pwk-oscp/",
+    "details": ""
+  },
+  {
+    "name": "F5 CSE Sec",
+    "link": "https://view.ceros.com/f5/certification-roadmap/p/9?heightOverride=740",
+    "details": ""
+  },
+  {
+    "name": "CCNP Ent",
+    "link": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html",
+    "details": ""
+  },
+  {
+    "name": "MS-100",
+    "link": "https://docs.microsoft.com/en-us/learn/certifications/m365-enterprise-administrator",
+    "details": "Microsoft 365 Certified Enterprise Administrator Expert\n    $165 exam"
+  },
+  {
+    "name": "GPCS",
+    "link": "https://www.giac.org/certifications/public-cloud-security-gpcs/",
+    "details": "GIAC Public Cloud Security\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "GCSA",
+    "link": "https://www.giac.org/certification/cloud-security-automation-gcsa",
+    "details": "GIAC Cloud Security Automation\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "GCWN",
+    "link": "https://www.giac.org/certifications/certified-windows-security-administrator-gcwn/",
+    "details": "GIAC Certified Windows Security Administrator\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "GRID",
+    "link": "https://www.giac.org/certification/response-industrial-defense-grid",
+    "details": "GIAC Response and Industrial Defense\n    $979 exam\n    SANS course encouraged"
+  },
+  {
+    "name": "CIS LI",
+    "link": "https://www.itgovernance.co.uk/shop/product/certified-iso-27001-isms-lead-implementer-training-course",
+    "details": "IBITGQ Certified ISO 27001 Information Security Management Specialist Lead Implementer\n    $2,008 course exam\n    Branded course required"
+  },
+  {
+    "name": "CIPT",
+    "link": "https://iapp.org/certify/cipt/",
+    "details": "IAPP Certified Information Privacy Technologist\n    $550 exam"
+  },
+  {
+    "name": "CDPSE",
+    "link": "https://www.isaca.org/credentialing/certified-data-privacy-solutions-engineer",
+    "details": "ISACA Certified Data Privacy Solutions Engineer\n    $880 Application"
+  },
+  {
+    "name": "CSM",
+    "link": "https://gaqm.org/certifications/scrum_agile/csm",
+    "details": "GAQM Certified Scrum Master\n    $128 exam"
+  },
+  {
+    "name": "CASM",
+    "link": "https://gaqm.org/certifications/scrum_agile/casm",
+    "details": "GAQM Certified Agile Scrum Master\n    $128 exam"
+  },
+  {
+    "name": "CM)ISSO",
+    "link": "https://www.mile2.com/master-certifications/",
+    "details": "Mile2 Certified Master Information Systems Security Officer\n    Complete C)SP, C)ISSO, C)ISSM and IS20 ($2200)"
+  },
+  {
+    "name": "S-ISP",
+    "link": "https://www.seco-institute.org/certifications/information-security-certification-track/",
+    "details": "SECO Information Security Practitioner\n    $550"
+  },
+  {
+    "name": "CISA",
+    "link": "https://www.isaca.org/credentialing/cisa",
+    "details": "ISACA Certified Information Systems Auditor\n    $760 exam"
+  },
+  {
+    "name": "GMON",
+    "link": "https://www.giac.org/certification/continuous-monitoring-certification-gmon",
+    "details": "GIAC Continuous Monitoring\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "CIS LA",
+    "link": "https://www.itgovernance.co.uk/shop/product/certified-iso-27001-isms-lead-auditor-training-course",
+    "details": "IBITGQ Certified ISO 27001 Information Security Management Specialist Lead Auditor\n    $2,008 course exam\n    Branded course required"
+  },
+  {
+    "name": "S-CSPL",
+    "link": "https://www.seco-institute.org/certifications/certified-secure-software-developer/",
+    "details": "SECO Secure Programming Certified Leader\n    $460 exam"
+  },
+  {
+    "name": "GCDA",
+    "link": "https://www.giac.org/certification/certified-detection-analyst-gcda",
+    "details": "GIAC Certified Detection Analyst\n        $979 exam\n        SANS course recommended"
+  },
+  {
+    "name": "CMFE",
+    "link": "https://app.infosecinstitute.com/portal/courses/a0t1A000009H6juQAC",
+    "details": "Infosec Institute Certified Mobile Forensics Examiner\n    $1,699 exam\n    Course required"
+  },
+  {
+    "name": "GX-FA",
+    "link": "https://www.giac.org/certifications/experienced-forensics-analyst-gxfa/",
+    "details": "GIAC Experienced Forensics Analyst\n    $1299 exam\n    SANS course recommended"
+  },
+  {
+    "name": "GCIH",
+    "link": "https://www.giac.org/certification/gcih",
+    "details": "GIAC Certified Forensics Analystr\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "GX-PT",
+    "link": "https://www.giac.org/certifications/experienced-penetration-tester-gxpt/",
+    "details": "GIAC Experienced Penetration Tester\n    $1299 exam\n    SANS course recommended"
+  },
+  {
+    "name": "GPEN",
+    "link": "https://www.giac.org/certification/gpen",
+    "details": "GIAC Certified Penetration Tester\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "OSWP",
+    "link": "https://www.offensive-security.com/wifu-oswp/",
+    "details": "Offensive Security Wireless Professional\n    $450 labs"
+  },
+  {
+    "name": "CRTO",
+    "link": "https://courses.zeropointsecurity.co.uk/courses/red-team-ops",
+    "details": ""
+  },
+  {
+    "name": "CCSM",
+    "link": "https://training-certifications.checkpoint.com/#/courses/Check%20Point%20Certified%20Master%20(CCSM)%20R80.x",
+    "details": ""
+  },
+  {
+    "name": "PCSAE",
+    "link": "https://www.paloaltonetworks.com/services/education/certification",
+    "details": ""
+  },
+  {
+    "name": "PCCSE",
+    "link": "https://www.paloaltonetworks.com/services/education/certification",
+    "details": ""
+  },
+  {
+    "name": "CIAM",
+    "link": "https://www.identitymanagementinstitute.org/ciam/",
+    "details": "Identify Management Institute Certified Identify and Access Manager\n    $390 Exam"
+  },
+  {
+    "name": "FCSS SO",
+    "link": "https://training.fortinet.com/local/staticpage/view.php?page=fcss_security_operations",
+    "details": "Fortinet Certified Solution Specialist - Security Operations\n    $400 exam"
+  },
+  {
+    "name": "PDSO CDE",
+    "link": "https://www.practical-devsecops.com/certified-devsecops-expert",
+    "details": "PDSO Certified DevSecOps Expert\n    $1199\n    Exam and training bundled"
+  },
+  {
+    "name": "VCP DCV",
+    "link": "https://www.vmware.com/education-services/certification/vcp-dcv.html",
+    "details": "VMware Certified Professional in Datacenter Virtualization\n    $375 exam\n    Branded course required"
+  },
+  {
+    "name": "CKS",
+    "link": "https://www.cncf.io/certification/cks/",
+    "details": "Cloud Native Computing Foundation Certified Kubernetes Security Specialist\n    $375 lab\n    Branded course required"
+  },
+  {
+    "name": "LFCS",
+    "link": "https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/",
+    "details": "Linux Foundation Certified System Administrator\n    $300 exam"
+  },
+  {
+    "name": "FCSS OT",
+    "link": "https://training.fortinet.com/local/staticpage/view.php?page=fcss_ot_security",
+    "details": "Fortinet Certified Solution Specialist - OT Security\n    $400 exam"
+  },
+  {
+    "name": "CSSA",
+    "link": "https://app.infosecinstitute.com/portal/courses/a0tC0000000Fp4JIAS",
+    "details": "Infosec Institute Certified SCADA Security Architect\n    $4,599 exam\n    Course required"
+  },
+  {
+    "name": "Scrum PSD",
+    "link": "https://www.scrum.org/professional-scrum-developer-certification",
+    "details": "Scrum Professional Scrum Developer\n    $200 exam"
+  },
+  {
+    "name": "GCPM",
+    "link": "https://www.giac.org/certification/gcpm",
+    "details": "GIAC Certified Project Manager\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "BCS PCIRM",
+    "link": "https://www.bcs.org/get-qualified/certifications-for-professionals/information-security-and-ccp-scheme-certifications/bcs-practitioner-certificate-in-information-risk-management/",
+    "details": "BCS Practitioner Certificate in Information Risk Management\n    $287 exam"
+  },
+  {
+    "name": "PEXIN ISM",
+    "link": "https://www.exin.com/certifications/information-security-management-professional-based-isoiec-27001-exam",
+    "details": "EXIN Information Security Management Professional\n    $268 exam"
+  },
+  {
+    "name": "MGRC",
+    "link": "https://www.mosse-institute.com/certifications/mgrc-certified-grc-practitioner.html",
+    "details": "Mosse Institute Certified GRC Expert Certification\n  $450 certification programme\n  100% practical. No expiry."
+  },
+  {
+    "name": "CSSLP",
+    "link": "https://www.isc2.org/Certifications/CSSLP",
+    "details": "(ISC)2 Certified Secure Software Lifecycle Professional\n    $599 exam"
+  },
+  {
+    "name": "MTH",
+    "link": "https://www.mosse-institute.com/certifications/mth-certified-threat-hunter.html",
+    "details": "Mosse Institute Certified Threat Hunter Certification\n                    $450 certification programme\n                    100% practical. No expiry."
+  },
+  {
+    "name": "CDRP",
+    "link": "https://app.infosecinstitute.com/portal/courses/a0tC0000000FovhIAC",
+    "details": "Infosec Institute Certified Data Recovery Professional\n    $4,599 exam\n    Course required"
+  },
+  {
+    "name": "eCDFP",
+    "link": "https://security.ine.com/certifications/ecdfp-certification/",
+    "details": "eLearnSecurity Certified Digital Forensics Professional\n    $400 exam"
+  },
+  {
+    "name": "GPYC",
+    "link": "https://www.giac.org/certification/python-coder-gpyc",
+    "details": "GIAC Python Coder\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "MDFIR",
+    "link": "https://www.mosse-institute.com/certifications/mdfir-certified-dfir-specialist.html",
+    "details": "Mosse Institute Certified DFIR Specialist\n  $450 certification programme\n  100% practical. No expiry."
+  },
+  {
+    "name": "LPT",
+    "link": "https://www.eccouncil.org/programs/licensed-penetration-tester-lpt-master/",
+    "details": "EC Council Licensed Penetration Tester\n    $899 exam"
+  },
+  {
+    "name": "PNPT",
+    "link": "https://certifications.tcm-sec.com/pnpt/",
+    "details": "TCM Security Practical Network Penetration Tester\n    $299 exam"
+  },
+  {
+    "name": "GCPN",
+    "link": "https://www.giac.org/certification/gcpn",
+    "details": "GIAC Cloud Penetration Tester\n    $2,499 exam\n    SANS course recommended"
+  },
+  {
+    "name": "GRTP",
+    "link": "https://www.giac.org/certifications/red-team-professional-grtp/",
+    "details": "GIAC Red Team Professional\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "SOG CAPenX",
+    "link": "https://secops.group/product/certified-appsec-pentesting-expert-capenx/",
+    "details": "The SecurityOps Group Certified AppSec Pentesting eXpert\n    $800 exam"
+  },
+  {
+    "name": "GMOB",
+    "link": "https://www.giac.org/certification/mobile-device-security-analyst-gmob",
+    "details": ""
+  },
+  {
+    "name": "FCSS NS",
+    "link": "https://training.fortinet.com/local/staticpage/view.php?page=fcss_network_security",
+    "details": ""
+  },
+  {
+    "name": "CIDPRO",
+    "link": "https://idpro.org/cidpro/",
+    "details": "IDPro Certified Identity Professional\n    $700 exam"
+  },
+  {
+    "name": "CCSP",
+    "link": "https://www.isc2.org/Certifications/CCSP",
+    "details": "(ISC)2 Certified Cloud Security Professional\n    $599 exam"
+  },
+  {
+    "name": "FCP PCS",
+    "link": "https://training.fortinet.com/local/staticpage/view.php?page=fcp_public_cloud_security",
+    "details": ""
+  },
+  {
+    "name": "FCP SO",
+    "link": "https://training.fortinet.com/local/staticpage/view.php?page=fcp_security_operations",
+    "details": ""
+  },
+  {
+    "name": "RHCSA",
+    "link": "https://www.redhat.com/en/services/certification/rhcsa",
+    "details": "Red Hat Certified System Administrator\n    $400 exam"
+  },
+  {
+    "name": "ISA CDS",
+    "link": "https://www.isa.org/training-and-certifications/isa-certification/isa99iec-62443/isa99iec-62443-cybersecurity-certificate-programs/",
+    "details": "ISA Certified Design Specialist\n    $2,700 course + exam"
+  },
+  {
+    "name": "SFCTA",
+    "link": "https://trailhead.salesforce.com/help?article=Salesforce-Certified-Technical-Architect-Exam-Guide",
+    "details": "Salesforce Certified Technical Architect\n    $6000\n    Must be SF SA Certified"
+  },
+  {
+    "name": "EPDPP",
+    "link": "https://embed.exin.totalservices.io/certifications/exin-privacy-and-data-protection-practitioner-exam",
+    "details": "EXIN Privacy and Data Protection Practitioner\n    $243 Exam\n    Course req'd"
+  },
+  {
+    "name": "M_o_R P",
+    "link": "https://www.axelos.com/certifications/propath/mor-risk-management/mor-4-practitioner",
+    "details": "Axelos M_o_R Practitioner Risk Management\n    $560 exam"
+  },
+  {
+    "name": "CPD",
+    "link": "https://gaqm.org/certifications/project_management/cpd",
+    "details": "GAQM Certified Project Director\n    $210 exam"
+  },
+  {
+    "name": "PMI ACP",
+    "link": "https://www.pmi.org/certifications/types/agile-acp",
+    "details": "PMI Agile Certified Practitioner\n    $495 exam"
+  },
+  {
+    "name": "EISM",
+    "link": "https://ciso.eccouncil.org/cciso-certification/eism-program/",
+    "details": "EC Council Information Security Manager\n    $3,499\n    Branded course required"
+  },
+  {
+    "name": "CGEIT",
+    "link": "https://www.isaca.org/credentialing/cgeit",
+    "details": "ISACA Certified in the Governance of Enterprise IT\n    $760 exam"
+  },
+  {
+    "name": "EXIN 27001E",
+    "link": "https://www.exin.com/certifications/information-security-management-expert-based-isoiec-27001-exam?language_content_entity=en",
+    "details": "EXIN ISO/IEC 27001 Expert\n    ~$379 Oral Presentation"
+  },
+  {
+    "name": "PECB 27005LM",
+    "link": "https://pecb.com/en/education-and-certification-for-individuals/iso-iec-27005/iso-27005-lead-risk-manager",
+    "details": "PECB ISO/IEC 27005 Lead Risk Manager\n    ~$1,595 exam\n    Course required"
+  },
+  {
+    "name": "DCCRP",
+    "link": "https://drii.org/certification/ccrp",
+    "details": "DRI Certified Cyber Resilience Professional\n    $400 Exam"
+  },
+  {
+    "name": "GCIA",
+    "link": "https://www.giac.org/certification/certified-intrusion-analyst-gcia",
+    "details": "GIAC Certified Intrusion Analyst\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "CTPRA",
+    "link": "https://sharedassessments.org/ctpra/",
+    "details": "Shared Assessment Certified Third-Party Risk Assessor\n    $1295 course"
+  },
+  {
+    "name": "PECB 27001LA",
+    "link": "https://pecb.com/en/education-and-certification-for-individuals/iso-iec-27001/iso-iec-27001-lead-auditor",
+    "details": "PECB ISO/IEC 27001 Lead Auditor\n    $930 exam\n    Course required"
+  },
+  {
+    "name": "DevNet Pro",
+    "link": "https://www.cisco.com/site/us/en/learn/training-certifications/certifications/devnet/professional/index.html",
+    "details": "Cisco DevNet Professional\n    $1200 two exams\n    DevNet Associate req'd"
+  },
+  {
+    "name": "SC-400",
+    "link": "https://docs.microsoft.com/en-us/learn/certifications/information-protection-administrator/",
+    "details": "Microsoft Certified Information Protection Administrator Associate\n    $165 exam"
+  },
+  {
+    "name": "CCE",
+    "link": "https://www.isfce.com/certification.htm",
+    "details": "ISFCE Certified Computer Examiner\n    $485 written exam"
+  },
+  {
+    "name": "CM)DFI",
+    "link": "https://www.mile2.com/master-certifications/",
+    "details": "Mile2 Certified Master Digital Forensic Investigator\n    Complete C)SP, C)DFE, C)NFE and C)CSA ($2200)"
+  },
+  {
+    "name": "CREST CRIA",
+    "link": "https://www.crest-approved.org/certification-careers/crest-certifications/crest-registered-intrusion-analyst",
+    "details": "CREST Registered Intrusion Analyst\n    $612 exam & lab"
+  },
+  {
+    "name": "CREST CRTIA",
+    "link": "https://www.crest-approved.org/certification-careers/crest-certifications/crest-registered-threat-intelligence-analyst",
+    "details": "CREST Registered Threat Intelligence Analyst\n    $615 2 exams"
+  },
+  {
+    "name": "GWAPT",
+    "link": "https://www.giac.org/certification/gwapt",
+    "details": "GIAC Web Application Penetration Tester\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "OSMR",
+    "link": "https://www.offensive-security.com/exp312-osmr/",
+    "details": "Offensive Security MacOS Researcher\n    $2,499 exam\n    Learning subscription required"
+  },
+  {
+    "name": "GCPT",
+    "link": "https://gaqm.org/certifications/information_systems_security/certified_penetration_tester_cpt",
+    "details": "GAQM Certified Penetration Tester\n    $128 exam"
+  },
+  {
+    "name": "CCPenX-AWS",
+    "link": "https://secops.group/product/certified-cloud-pentesting-expert/",
+    "details": "The SecurityOps Group Certified Cloud Pentesting eXpert-AWS\n    $800 exam"
+  },
+  {
+    "name": "CCSE",
+    "link": "https://training-certifications.checkpoint.com/#/courses/Check%20Point%20Certified%20Expert%20(CCSE)%20R80.x",
+    "details": ""
+  },
+  {
+    "name": "AWS CSS",
+    "link": "https://aws.amazon.com/certification/certified-security-specialty/",
+    "details": "Amazon Web Services Certified Security - Specialty\n    $150 exam"
+  },
+  {
+    "name": "SFCCCC",
+    "link": "https://trailhead.salesforce.com/help?article=Salesforce-Certified-Community-Cloud-Consultant-Exam-Guide",
+    "details": "SalesForce Certified Community Cloud Consultant\n    $200 exam\n    Must be SalesForce Admin Certified"
+  },
+  {
+    "name": "EXIN PCSA",
+    "link": "https://www.exin.com/certifications/ccc-professional-cloud-solution-architect-exam",
+    "details": "EXIN Professional Cloud Solution Architect\n    $315 exam"
+  },
+  {
+    "name": "CKA",
+    "link": "https://www.cncf.io/certification/cka/",
+    "details": "Cloud Native Computing Foundation Certified Kubernetes Administrator\n    $375 lab\n    Branded course required"
+  },
+  {
+    "name": "TUV COTCP",
+    "link": "https://www.tuv.com/landingpage/en/lp-certified-operational-technology-cybersecurity-professional-program/",
+    "details": "TUV Rheinland Certified Operational Technology Cybersecurity Professional (GERMAN)\n                        $415 exam"
+  },
+  {
+    "name": "SABSA SCF",
+    "link": "https://sabsa.org/certification/",
+    "details": "SABSA Chartered Security Architect - Foundation Certificate\n    $3,750 exam\n    Branded course required"
+  },
+  {
+    "name": "CIPA",
+    "link": "https://www.identitymanagementinstitute.org/cipa/",
+    "details": "IMI Certified Identity Protection comptia-advanced-security-practitioner\n    $295 Exam"
+  },
+  {
+    "name": "DCPP",
+    "link": "https://www.dsci.in/content/dsci-certified-privacy-professional-dcpp",
+    "details": "DSCI Certified Privacy Professional\n    $205 Exam"
+  },
+  {
+    "name": "Scrum PAL",
+    "link": "https://www.scrum.org/professional-agile-leadership-certification",
+    "details": "Scrum  Professional Agile Leadership\n    $200 exam"
+  },
+  {
+    "name": "CAPM",
+    "link": "https://www.pmi.org/certifications/types/certified-associate-capm",
+    "details": "PMI Certified Associate in Project Management\n    $300 exam"
+  },
+  {
+    "name": "PSM II",
+    "link": "https://www.scrum.org/assessments/professional-scrum-master-ii-certification",
+    "details": "Scrum.org Professional Scrum Master II\n    $250 exam"
+  },
+  {
+    "name": "APMG 20000P",
+    "link": "https://apmg-international.com/product/iso-iec-20000",
+    "details": "APMG ISO/IEC 20000 Practitioner\n    $308 Exam\n    Foundation or ITIL req'd"
+  },
+  {
+    "name": "C)ISRM",
+    "link": "https://www.mile2.com/information-systems-risk-mangager-outline/",
+    "details": "Mile2 Certified Information Systems Risk Manager\n    $550 exam"
+  },
+  {
+    "name": "APMG 27001P",
+    "link": "https://apmg-international.com/product/isoiec-27001",
+    "details": "APMG ISO/IEC 27001 Practitioner\n    $400 exam\n    Application essay"
+  },
+  {
+    "name": "PECB 27001LI",
+    "link": "https://pecb.com/en/education-and-certification-for-individuals/iso-iec-27001/iso-iec-27001-lead-implementer",
+    "details": "PECB ISO/IEC 27001 Lead Implementer\n    $930 exam\n    Course required"
+  },
+  {
+    "name": "IS20",
+    "link": "https://www.mile2.com/is20_outline/",
+    "details": "Mile2 IS20 Controls\n    $550 exam"
+  },
+  {
+    "name": "C)ISSA",
+    "link": "https://www.mile2.com/information_systems_security_auditor_outline/",
+    "details": "Mile2 Certified Information Systems Security Auditor\n    $550 exam"
+  },
+  {
+    "name": "APMG 27001A",
+    "link": "https://apmg-international.com/product/isoiec-27001",
+    "details": "APMG ISO/IEC 27001 Auditor\n    $400 exam\n    Application essay"
+  },
+  {
+    "name": "CASE",
+    "link": "https://www.eccouncil.org/programs/certified-application-security-engineer-case/",
+    "details": "EC Council Certified Application Security Engineer (.NET or Java)\n    $550 exam"
+  },
+  {
+    "name": "C)DRE",
+    "link": "https://www.mile2.com/cdre_outline/",
+    "details": "Mile2 Certified Disaster Recovery Engineer\n                    $550 exam"
+  },
+  {
+    "name": "GSOC",
+    "link": "https://www.giac.org/certifications/security-operations-certified-gsoc/",
+    "details": "GIAC Security Operations Certified\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "GBFA",
+    "link": "https://www.giac.org/certification/gbfa",
+    "details": "GIAC Battlefield Forensics and Acquisition\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "BTL1",
+    "link": "https://www.securityblue.team/why-btl1/",
+    "details": "Security Blue Team Level 1\n    $660 course\n    1 exam attempt included"
+  },
+  {
+    "name": "MBT",
+    "link": "https://www.mosse-institute.com/certifications/mbt-certified-blue-teamer.html",
+    "details": "Mosse Institute Certified Blue Teamer Certification\n  $450 certification programme\n  100% practical. No expiry."
+  },
+  {
+    "name": "MPT",
+    "link": "https://www.mosse-institute.com/certifications/mpt-certified-penetration-tester.html",
+    "details": "Mosse Institute Certified Penetration Tester Certification\n    $450 certification programme\n    100% practical. No expiry."
+  },
+  {
+    "name": "CPENT",
+    "link": "https://www.eccouncil.org/programs/certified-penetration-testing-professional-cpent/",
+    "details": "EC Council Certified Penetration Testing Professional\n    $999 exam"
+  },
+  {
+    "name": "CREST CCTAPP",
+    "link": "https://www.crest-approved.org/certification-careers/crest-certifications/crest-certified-web-application-tester/",
+    "details": "CREST Certified Web Application Tester\n    $2,520 exam & lab"
+  },
+  {
+    "name": "HTB CPTS",
+    "link": "https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist/",
+    "details": "Hack the Box Certified Penetration Testing Specialist\n    $200 modules + $210 exam\n    $490 Subscription available"
+  },
+  {
+    "name": "MRE",
+    "link": "https://www.mosse-institute.com/certifications/mre-certified-reverse-engineer.html",
+    "details": ""
+  },
+  {
+    "name": "JNCIS Sec",
+    "link": "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track/?tab=jncisec",
+    "details": ""
+  },
+  {
+    "name": "Programming Language",
+    "link": "https://www.learnpython.org/",
+    "details": "Learning a programming language is valuable to any IT professionals career.\n    Recommendations: Python, Ruby, C++"
+  },
+  {
+    "name": "GMLE",
+    "link": "https://www.giac.org/certifications/machine-learning-engineer-gmle/",
+    "details": "GIAC Machine Learning Engineer\n    $979 exam"
+  },
+  {
+    "name": "CREST CCHIA",
+    "link": "https://www.crest-approved.org/certification-careers/crest-certifications/crest-certified-host-intrusion-analyst",
+    "details": "CREST Certified Host intrustion Analyst\n    $2,481 exam & essay\n    Hands on exam in UK"
+  },
+  {
+    "name": "EnCE",
+    "link": "https://www.opentext.com/products-and-solutions/services/training-and-learning-services/encase-training/examiner-certification",
+    "details": "OpenText EnCase Certified Examiner\n    $200 two exams"
+  },
+  {
+    "name": "ACE",
+    "link": "https://accessdata.com/training/computer-forensics-certification",
+    "details": "AccessData Certified Examiner\n    $100 + software"
+  },
+  {
+    "name": "eCIR",
+    "link": "https://security.ine.com/certifications/ecir-certification/",
+    "details": "eLearnSecurity Certified Incident Responder\n    $400 lab"
+  },
+  {
+    "name": "C)IHE",
+    "link": "https://www.mile2.com/cihe_outline/",
+    "details": "Mile2 Certified Incident Handling Engineer\n    $550 exam"
+  },
+  {
+    "name": "CSTL",
+    "link": "https://thecyberscheme.org/cyber-scheme-team-leader-cstl-exam/",
+    "details": "Cyber Scheme Team Leader\n    $1945 exam"
+  },
+  {
+    "name": "eCPPT",
+    "link": "https://security.ine.com/certifications/ecppt-certification/",
+    "details": "eLearnSecurity Certified Professional Penetration Tester\n    $400 lab"
+  },
+  {
+    "name": "eWPT",
+    "link": "https://security.ine.com/certifications/ewpt-certification/",
+    "details": "eLearnSecurity Web Application Penetration Tester\n    $400 lab"
+  },
+  {
+    "name": "CM)IPS",
+    "link": "https://www.mile2.com/master-certifications/",
+    "details": "Mile2 Certified Master Intrusion Prevention Specialist\n    Complete C)VA, C)PEH, C)PTE and C)PTC ($2200)"
+  },
+  {
+    "name": "HTB CBBH",
+    "link": "https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter/",
+    "details": "Hack the Box Certified Bug Bounty Hunter\n    $145 modules + $210 exam\n    $490 Subscription available"
+  },
+  {
+    "name": "PJMR",
+    "link": "https://certifications.tcm-sec.com/pjmr/",
+    "details": ""
+  },
+  {
+    "name": "F5 CTS APM",
+    "link": "https://view.ceros.com/f5/certification-roadmap/p/9?heightOverride=740",
+    "details": ""
+  },
+  {
+    "name": "FCP NS",
+    "link": "https://training.fortinet.com/local/staticpage/view.php?page=fcp_network_security",
+    "details": ""
+  },
+  {
+    "name": "CCNA",
+    "link": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html",
+    "details": "Cisco Certified Network Associate\n    ~$330 exam"
+  },
+  {
+    "name": "AZ-500",
+    "link": "https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer?wt.mc_id=learningredirect_certs-web-wwl",
+    "details": "Microsoft Azure Security Engineer Associate\n    $165 exam"
+  },
+  {
+    "name": "CSA CGC",
+    "link": "https://cloudsecurityalliance.org/education/cloud-governance-and-compliance/",
+    "details": "Cloud Security Alliance Cloud Governance & Compliance\n    $315 exam"
+  },
+  {
+    "name": "VCP NV",
+    "link": "https://www.vmware.com/education-services/certification/vcp-nv-tracks.html",
+    "details": "VMware Certified Professional in Network Virtualization\n    $375 exam\n    Branded course required"
+  },
+  {
+    "name": "CKAD",
+    "link": "https://www.cncf.io/certification/ckad/",
+    "details": "Cloud Native Computing Foundation Certified Kubernetes Application Developer\n    $375 lab\n    Branded course required"
+  },
+  {
+    "name": "LPIC-2",
+    "link": "https://www.lpi.org/our-certifications/lpic-2-overview",
+    "details": "Linux Professional Institute Certified: Linux Engineer\n    $400 2 exams"
+  },
+  {
+    "name": "GCIP",
+    "link": "https://www.giac.org/certification/critical-infrastructure-protection-gcip",
+    "details": "GIAC Critical Infrastructure Protection\n    $979 exam\n    SANS course encouraged"
+  },
+  {
+    "name": "CIMP",
+    "link": "https://www.identitymanagementinstitute.org/cimp/",
+    "details": "IMI Certified Identity Management Professional\n    $295 Exam"
+  },
+  {
+    "name": "CDP",
+    "link": "https://www.identitymanagementinstitute.org/cdp/",
+    "details": "IMI Certified in Data Protection\n    $395 Exam"
+  },
+  {
+    "name": "CCP",
+    "link": "https://ecfirst.biz/index.php?route=product/product&path=59_83&product_id=281",
+    "details": "EC First Certified CCMC Professional\n    $2,995 exam\n    Course required"
+  },
+  {
+    "name": "C)ISSO",
+    "link": "https://www.mile2.com/cisso_outline/",
+    "details": "Mile2 Certified Information Systems Security Officer\n    $550 exam"
+  },
+  {
+    "name": "CIS RM",
+    "link": "https://www.itgovernance.co.uk/shop/product/iso-27005-certified-isms-risk-management",
+    "details": "IBITGQ Certified ISO 27005 Information Security Management Specialist Risk Management\n    $2,783 course exam\n    Branded course required"
+  },
+  {
+    "name": "EXIN 27001P",
+    "link": "https://www.exin.com/certifications/information-security-management-professional-based-isoiec-27001-exam",
+    "details": "EXIN ISO/IEC 27001 Professional\n    $279 exam"
+  },
+  {
+    "name": "PECB 27032CM",
+    "link": "https://pecb.com/en/education-and-certification-for-individuals/iso-iec-27032/iso-iec-27032-lead-cyber-security-manager",
+    "details": "PECB ISO/IEC 27032 Lead Cybersecurity Manager\n    $899-$2,999 course exam\n    Course required"
+  },
+  {
+    "name": "C)HISSP",
+    "link": "https://www.mile2.com/chissp_outline/",
+    "details": "Mile2 Certified Healthcare Information Systems Security Practitioner\n    $550 exam"
+  },
+  {
+    "name": "APMG 20000A",
+    "link": "https://apmg-international.com/product/iso-iec-20000",
+    "details": "APMG ISO/IEC 20000 Auditor\n    $308 Exam\n    Possible Course Req"
+  },
+  {
+    "name": "C)ISMS-LA",
+    "link": "https://www.mile2.com/cisms-la-li-outline/",
+    "details": "Mile2 Certified Information security Management Systems Lead Auditor\n    $550 exam"
+  },
+  {
+    "name": "CIS IA",
+    "link": "https://www.itgovernance.co.uk/shop/product/iso27001-certified-isms-internal-auditor-training-course",
+    "details": "IBITGQ Certified ISO 27001 Information Security Management Specialist Internal Auditor\n    $1543 course exam\n    Branded course required"
+  },
+  {
+    "name": "CASST",
+    "link": "https://gaqm.org/certifications/software_security_testing/casst",
+    "details": "GAQM Certified Advanced Software Security Tester\n    $210 exam"
+  },
+  {
+    "name": "OSIP",
+    "link": "https://inteltechniques.com/training-osip.html",
+    "details": "IntelTechniques Open Source Intelligence Professional\n    $300 practical exam"
+  },
+  {
+    "name": "Cisco COA",
+    "link": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/cyberops-associate.html",
+    "details": "Cisco Certified CyberOps Associate Cyber Operations\n    ~$325 exam"
+  },
+  {
+    "name": "C)CSA",
+    "link": "https://www.mile2.com/ccsa_outline/",
+    "details": "Mile2 Certified Cybersecurity Analyst\n    $550 exam"
+  },
+  {
+    "name": "CHFI",
+    "link": "https://www.eccouncil.org/programs/computer-hacking-forensic-investigator-chfi/",
+    "details": "EC Council Computer Hacking Forensics Investigator\n    $650 exam"
+  },
+  {
+    "name": "S-TA",
+    "link": "https://www.seco-institute.org/get-trained/cyber-defense-track/threat-analyst-certification/",
+    "details": "SECO Certified Threat Analyst\n    $550 exam"
+  },
+  {
+    "name": "ECIH",
+    "link": "https://www.eccouncil.org/programs/ec-council-certified-incident-handler-ecih/",
+    "details": "EC Council Certified Incident Handler\n    $300 exam"
+  },
+  {
+    "name": "C)PSH",
+    "link": "https://www.mile2.com/cpSH_outline/",
+    "details": "Mile2 Certified Powershell Hacker\n    $550 exam"
+  },
+  {
+    "name": "CMWAPT",
+    "link": "https://app.infosecinstitute.com/portal/courses/a0tC0000000Fow6IAC",
+    "details": "Infosec Institute Certified Mobile and Web App Penetration Tester\n    $4,599 exam\n    Course required"
+  },
+  {
+    "name": "C)PTC",
+    "link": "https://mile2.com/cptc_outline/",
+    "details": "Mile2 Certified Penetration Testing Consultant\n    $550 exam"
+  },
+  {
+    "name": "CRTOP",
+    "link": "https://app.infosecinstitute.com/portal/courses/a0t0y00000BK8IcAAL",
+    "details": ""
+  },
+  {
+    "name": "CSR",
+    "link": "https://cyberstruggle.org/ranger-certification/",
+    "details": "Cyber Struggle Ranger\n    Location Based Cost\n    Course Req"
+  },
+  {
+    "name": "F5 CTS DNS",
+    "link": "https://view.ceros.com/f5/certification-roadmap/p/9?heightOverride=740",
+    "details": ""
+  },
+  {
+    "name": "PCDRA",
+    "link": "https://www.paloaltonetworks.com/services/education/certification",
+    "details": "Palo Alto Networks Certified Detection and Remediation Analyst\n    $155 exam"
+  },
+  {
+    "name": "SF CIAMD",
+    "link": "https://trailhead.salesforce.com/help?article=Salesforce-Certified-Identity-and-Access-Management-Designer-Exam-Guide",
+    "details": "SalesForce Certified Identity and Access Management Designer\n    $400 exam"
+  },
+  {
+    "name": "GCLD",
+    "link": "https://www.giac.org/certifications/cloud-security-essentials-gcld/",
+    "details": "GIAC Cloud Security Essentials\n    $979 exam SANS course recommended"
+  },
+  {
+    "name": "AWS SAA",
+    "link": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+    "details": "Amazon Web Services Certified Solutions Architect - Associate\n    $150 exam"
+  },
+  {
+    "name": "EXIN PCSerM",
+    "link": "https://www.exin.com/certifications/ccc-professional-cloud-service-manager-exam",
+    "details": "EXIN Professional Cloud Service Manager\n    $315 exam"
+  },
+  {
+    "name": "ISA CRAS",
+    "link": "https://www.isa.org/training-and-certifications/isa-certification/isa99iec-62443/isa99iec-62443-cybersecurity-certificate-programs/",
+    "details": "ISA Certified Risk Assesment Specialist\n    $2,700 course + exam\n    Course required"
+  },
+  {
+    "name": "SPLK-3001",
+    "link": "https://www.splunk.com/en_us/training/certification-track/splunk-es-certified-admin.html",
+    "details": "Splunk Enterprise Security Certified Administrator\n    $130 exam\n    Branded course recommended"
+  },
+  {
+    "name": "BCS PCIAA",
+    "link": "https://www.bcs.org/get-qualified/certifications-for-professionals/information-security-and-ccp-scheme-certifications/bcs-practitioner-certificate-in-information-assurance-architecture/",
+    "details": "BCS Practitioner Certificate in Information Assurance Architecture\n    $290 exam"
+  },
+  {
+    "name": "CCSA",
+    "link": "https://ecfirst.biz/index.php?route=product/product&path=59_61&product_id=77",
+    "details": "EC First Certified Cyber Security Architect\n    $695 exam"
+  },
+  {
+    "name": "PPM",
+    "link": "https://gaqm.org/certifications/project_management/ppm",
+    "details": "GAQM Professional in Project Management\n    $210 exam"
+  },
+  {
+    "name": "C)ISSM",
+    "link": "https://mile2.com/cissm_outline/",
+    "details": "Mile2 Certified Information Systems Security Manager\n    $550 exam"
+  },
+  {
+    "name": "TUV ITSM",
+    "link": "https://www.certipedia.com/quality_marks/0000063483?locale=en",
+    "details": "TUV IT Security Manager (GERMAN)\n    $415 exam\n    Course required"
+  },
+  {
+    "name": "CCRMP",
+    "link": "https://www.itgovernance.co.uk/shop/product/managing-cyber-security-risk-training-course",
+    "details": "IBITGQ Certified in Managing Cyber Security Risk\n    $2,629 course exam\n    Branded course required"
+  },
+  {
+    "name": "PECB 27005RM",
+    "link": "https://pecb.com/en/education-and-certification-for-individuals/iso-iec-27005/iso-iec-27005-risk-manager",
+    "details": "PECB ISO/IEC 27005 Risk Manager\n    ~$995 exam\n    Course required"
+  },
+  {
+    "name": "CSBA",
+    "link": "https://www.softwarecertifications.org/csba/",
+    "details": "QAI Certified Software Business Analyst\n    $350 exam + written essay"
+  },
+  {
+    "name": "DCBCLA",
+    "link": "https://drii.org/certification/cbcla",
+    "details": "DRI Certified Business Continuity Lead Auditor\n    $400 exam\n    Application req"
+  },
+  {
+    "name": "TUV MSA",
+    "link": "https://www.certipedia.com/quality_marks/0000046324?locale=en",
+    "details": "TUV Rheinland Mobile Security Analyst (GERMAN)\n    $415 exam\n    Course required"
+  },
+  {
+    "name": "DevNet A",
+    "link": "https://www.cisco.com/site/us/en/learn/training-certifications/certifications/devnet/associate/index.html",
+    "details": "Cisco DevNet Associate\n    $300 Exam"
+  },
+  {
+    "name": "CySA+",
+    "link": "https://www.comptia.org/certifications/cybersecurity-analyst",
+    "details": "CompTIA Cybersecurity Analyst+\n    $404 exam"
+  },
+  {
+    "name": "CSX-P",
+    "link": "https://cybersecurity.isaca.org/csx-certifications/csx-practitioner-certification",
+    "details": "ISACA Cybersecurity Practitioner\n    $549 lab"
+  },
+  {
+    "name": "C)NFE",
+    "link": "https://www.mile2.com/network-forensics-examiner-outline/",
+    "details": "Mile2 Certified Network Forensics Examiner\n    $550 exam\n    Groups only"
+  },
+  {
+    "name": "GOSI",
+    "link": "https://www.giac.org/certification/open-source-intelligence-gosi",
+    "details": "GIAC Open Source Intelligence\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "C)TIA",
+    "link": "https://www.mile2.com/threat-analyst/",
+    "details": "Mile2 Certified Threat Intelligence Analyst\n    $550 exam"
+  },
+  {
+    "name": "OSDA",
+    "link": "https://www.offensive-security.com/soc200-osda/",
+    "details": "Offensive Security Defense Analyst\n    $2,499 exam\n    Learning subscription required"
+  },
+  {
+    "name": "eMAPT",
+    "link": "https://security.ine.com/certifications/emapt-certification/",
+    "details": "eLearnSecurity Mobile Application Penetration Tester\n    $400"
+  },
+  {
+    "name": "BSCP",
+    "link": "https://portswigger.net/web-security/certification",
+    "details": "Portswigger Burp Suite Certified Practioner\n    $99 exam"
+  },
+  {
+    "name": "OPST",
+    "link": "https://www.isecom.org/certification.html",
+    "details": "ISECOM OSSTMM Professional Security Tester\n    Unknown"
+  },
+  {
+    "name": "OSWA",
+    "link": "https://www.offensive-security.com/web200-oswa/",
+    "details": "Offensive Security Web Assessor\n    $2,499 Exam\n    Learning subscription required"
+  },
+  {
+    "name": "CREA",
+    "link": "https://app.infosecinstitute.com/portal/courses/a0tC0000000Fp4IIAS",
+    "details": ""
+  },
+  {
+    "name": "CWSP",
+    "link": "https://www.cwnp.com/certifications/cwsp",
+    "details": ""
+  },
+  {
+    "name": "CREST CCNIA",
+    "link": "https://www.crest-approved.org/certification-careers/crest-certifications/crest-certified-network-intrusion-analyst",
+    "details": "CREST Certified Network Intrusion Analyst\n    $2,481 exam & essay\n    Hands on exam in UK"
+  },
+  {
+    "name": "CIGE",
+    "link": "https://www.identitymanagementinstitute.org/cige/",
+    "details": "IMI Certified Identity Governance Expert\n    $395 exam"
+  },
+  {
+    "name": "AZ-104",
+    "link": "https://docs.microsoft.com/en-us/learn/certifications/azure-administrator?wt.mc_id=learningredirect_certs-web-wwl",
+    "details": "Microsoft Azure Administrator Associate\n    $165 exam"
+  },
+  {
+    "name": "CLCSM",
+    "link": "https://pecb.com/en/education-and-certification-for-individuals/cloud-security/lead-cloud-security-manager",
+    "details": "PECB Lead Cloud Security Manager\n    ~$930 exam\n    Course required"
+  },
+  {
+    "name": "CCSE",
+    "link": "https://cert.eccouncil.org/certified-cloud-security-engineer.html",
+    "details": "EC Council Certified Cloud Security Engineer\n    $100 exam\n    EC Council Course Recommended"
+  },
+  {
+    "name": "MCSE",
+    "link": "https://www.mosse-institute.com/certifications/mcse-certified-cloud-security-engineer.html",
+    "details": "Mosse Institute Cloud Security Engineer\n                    $600 exam"
+  },
+  {
+    "name": "SFSA",
+    "link": "https://trailhead.salesforce.com/credentials/systemarchitect",
+    "details": "SalesForce System Architect\n    $400 hands-on lab"
+  },
+  {
+    "name": "ASIS APP",
+    "link": "https://www.asisonline.org/certification/associate-protection-professional-app/",
+    "details": "ASIS Associate Protection Professional\n    $350 exam"
+  },
+  {
+    "name": "CNDA",
+    "link": "https://www.eccouncil.org/programs/certified-network-defense-architect-cnda/",
+    "details": "EC Council Certified Network Defense Architect\n    $200 application\n    Requires CEH cert"
+  },
+  {
+    "name": "DACRP",
+    "link": "https://drii.org/certification/acrp",
+    "details": "DRI Associate Cyber Resilience Professional\n    $200 exam\n    Course req"
+  },
+  {
+    "name": "CISRM",
+    "link": "https://www.itgovernance.co.uk/shop/product/iso-27005-certified-isms-risk-management",
+    "details": "IBITGQ Certified ISO 27005 Information Security Management Specialist Risk Management\n    $2,783 course exam\n    Branded course required"
+  },
+  {
+    "name": "DCRMP",
+    "link": "https://drii.org/certification/crmp",
+    "details": "DRI Certified Risk Management Professional\n    $400 exam\n    Application essay"
+  },
+  {
+    "name": "SSAP",
+    "link": "https://www.sans.org/security-awareness-training/career-development/credential/",
+    "details": "SANS Security Awareness Professional\n    $1219 Exam\n    SANS MGT433 course recommended"
+  },
+  {
+    "name": "GRCP",
+    "link": "https://www.oceg.org/certifications/grc-professional-certification/",
+    "details": "OCEG Governance, Risk, and Compliance Professional\n    $399 12 month license"
+  },
+  {
+    "name": "SACP",
+    "link": "https://www.thehlayer.com/about-exam/",
+    "details": "The H Layer Security Awareness and Culture Professional\n    $369 Exam"
+  },
+  {
+    "name": "CISP",
+    "link": "https://gaqm.org/certifications/information_systems_security/cisp",
+    "details": "GAQM Certified Information Security Professional\n    $170 exam"
+  },
+  {
+    "name": "TUV Auditor",
+    "link": "https://www.certipedia.com/quality_marks/0000063484?locale=en",
+    "details": "TUV Rheinland IT Security Auditor (GERMAN)\n    $415 exam\n    Course required"
+  },
+  {
+    "name": "CTPRP",
+    "link": "https://sharedassessments.org/ctprp/",
+    "details": "Shared Assessment Certified Third-Party Risk Professional\n    $1295 course"
+  },
+  {
+    "name": "IIA CIA",
+    "link": "https://na.theiia.org/certification/CIA-Certification/Pages/CIA-Certification.aspx",
+    "details": "The Institute of Internal Auditors Certified Internal Auditor\n    $1315 3 exams"
+  },
+  {
+    "name": "CCSC",
+    "link": "https://certnexus.com/certification/cyber-secure-coder/",
+    "details": "CertNexus Cyber Secure Coder\n    $300 exam"
+  },
+  {
+    "name": "SC-200",
+    "link": "https://docs.microsoft.com/en-us/learn/certifications/security-operations-analyst/",
+    "details": "Microsoft Certified: Security Operations Analyst Associate\n    ~$165 exam"
+  },
+  {
+    "name": "MRCI",
+    "link": "https://www.mosse-institute.com/certifications/mrci-remote-cybersecurity-internship.html",
+    "details": "Mosse Institute Remote Cybersecurity Internship Programme\n  $49 certification programme\n  100% practical. No expiry."
+  },
+  {
+    "name": "EDRP",
+    "link": "https://www.eccouncil.org/programs/disaster-recovery-professional-edrp/",
+    "details": "EC Council Disaster Recovery Professional\n    $450 exam"
+  },
+  {
+    "name": "HTB CDSA",
+    "link": "https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst",
+    "details": "Hack the Box Certified Defensive Security Analyst\n                    $145 modules + $210 exam\n                    $490 Subscription available"
+  },
+  {
+    "name": "CFR",
+    "link": "https://certnexus.com/certification/cybersec-first-responder/",
+    "details": "CertNexus CyberSec First Responder\n    $250 exam"
+  },
+  {
+    "name": "CTIA",
+    "link": "https://www.eccouncil.org/programs/certified-threat-intelligence-analyst-ctia/",
+    "details": "EC Council Certified Threat intelligence Analyst\n    $450 exam"
+  },
+  {
+    "name": "CSTM",
+    "link": "https://thecyberscheme.org/cyber-scheme-team-member-cstm-exam/",
+    "details": "Cyber Scheme Team Member\n    $610 exam"
+  },
+  {
+    "name": "eJPT",
+    "link": "https://ine.com/learning/certifications/internal/elearnsecurity-junior-penetration-tester-v2",
+    "details": "eLearnSecurity Junior Penetration Tester\n    $249 lab"
+  },
+  {
+    "name": "S-EHP",
+    "link": "hhttps://www.seco-institute.org/certifications/ethical-hacking-track/practitioner/",
+    "details": "SECO Ethical Hacking Practitioner\n    $550 exam"
+  },
+  {
+    "name": "CHAT",
+    "link": "https://www.isecom.org/certification.html",
+    "details": "ISECOM Certified Hacker Analyst Trainer\n    $100 annual sub\n    Unknown exam price"
+  },
+  {
+    "name": "CREST CPSA",
+    "link": "https://www.crest-approved.org/certification-careers/crest-certifications/crest-practitioner-security-analyst",
+    "details": "CREST Practitioner Security Analyst\n    $425 exam"
+  },
+  {
+    "name": "F5 CA",
+    "link": "https://view.ceros.com/f5/certification-roadmap/p/9?heightOverride=740",
+    "details": ""
+  },
+  {
+    "name": "eNDP",
+    "link": "https://www.elearnsecurity.com/certification/endp/",
+    "details": ""
+  },
+  {
+    "name": "CIST",
+    "link": "https://www.identitymanagementinstitute.org/cist/",
+    "details": "IMI Certfied Identity and Security Technologist\n    $295 exam"
+  },
+  {
+    "name": "Google PCSE",
+    "link": "https://cloud.google.com/certification/cloud-security-engineer",
+    "details": "Google Professional Cloud Security Engineer\n    $200 exam"
+  },
+  {
+    "name": "EXIN PCSM",
+    "link": "https://www.exin.com/certifications/ccc-professional-cloud-security-manager-exam",
+    "details": "EXIN Professional Cloud Security Manager\n    $315 exam"
+  },
+  {
+    "name": "MDSO",
+    "link": "https://www.mosse-institute.com/certifications/mdso-certified-devsecops-engineer.html",
+    "details": "Mosse Institute Certified DevSecOps Engineer\n    $450 exam"
+  },
+  {
+    "name": "SCA",
+    "link": " https://www.suse.com/training/exam/sca-sles-15/",
+    "details": "SUSE Certified Administrator\n    $149 exam"
+  },
+  {
+    "name": "ISA CAP",
+    "link": "https://www.isa.org/training-and-certifications/isa-certification/isa99iec-62443/isa99iec-62443-cybersecurity-certificate-programs/",
+    "details": "ISA Certified Automation Specialist\n    $467 exam"
+  },
+  {
+    "name": "TUV COSM",
+    "link": "https://limessecurity.com/en/academy/ics-211/",
+    "details": "TUV Certified OT Security Manager\n    $3,070 Course"
+  },
+  {
+    "name": "Zach EAA",
+    "link": "https://www.zachman.com/certification/what-we-certify/enterprise-architect",
+    "details": "Zachman Enterprise Architect Associate (Level 1)\n    $2,999 course exam\n    Branded course required"
+  },
+  {
+    "name": "CAD",
+    "link": "https://gaqm.org/certifications/scrum_agile/cad",
+    "details": "GAQM Certified Agile Developer\n    $128 exam"
+  },
+  {
+    "name": "CAC",
+    "link": "https://gaqm.org/certifications/scrum_agile/cac",
+    "details": "GAQM Certified Agile Coach\n    $170"
+  },
+  {
+    "name": "ISMI CSMP",
+    "link": "https://www.ismi.org.uk/csmp/csmp%C2%AE-overview.aspx",
+    "details": "ISMI Certified Security Management Professional\n    $1159"
+  },
+  {
+    "name": "CSCS",
+    "link": "https://ecfirst.biz/index.php?route=product/product&path=59_61&product_id=89",
+    "details": "EC First Certified Security Compliance Specialist\n    $695 exam"
+  },
+  {
+    "name": "APMG 27001F",
+    "link": "https://apmg-international.com/product/isoiec-27001",
+    "details": "APMG ISO/IEC 27001 Foundation\n    $400 exam\n    Application essay"
+  },
+  {
+    "name": "PECB 27001F",
+    "link": "https://pecb.com/en/education-and-certification-for-individuals/iso-iec-27001/iso-iec-27001-foundation",
+    "details": "PECB ISO/IEC 27001 Foundation\n    $500-749 exam\n    Course required"
+  },
+  {
+    "name": "C)SLO",
+    "link": "https://www.mile2.com/cslo_outline/",
+    "details": "Mile2 Certified Security Leadership Officer\n    $550 exam"
+  },
+  {
+    "name": "DCBCA",
+    "link": "https://drii.org/certification/cbca",
+    "details": "DRI Certified Business Continuity Auditor\n    $400 exam\n    Application req"
+  },
+  {
+    "name": "GRCA",
+    "link": "https://www.oceg.org/certifications/grc-audit-certification/",
+    "details": "OCEG Governance, Risk, and Compliance Auditor\n    $399 12 month license"
+  },
+  {
+    "name": "CISST",
+    "link": "https://gaqm.org/certifications/information_systems_security/cisst",
+    "details": "GAQM Certified Information systems Security Tester\n    $170 exam"
+  },
+  {
+    "name": "C)SWAE",
+    "link": "https://www.mile2.com/cswae_outline/",
+    "details": "Mile2 Secure Web Application Engineer\n    $550 exam"
+  },
+  {
+    "name": "OPSA",
+    "link": "https://www.isecom.org/certification.html",
+    "details": "ISECOM OSSTMM Professional Security Analyst\n    $100 annual sub\n    Unknown exam fee"
+  },
+  {
+    "name": "CSAE",
+    "link": "https://cyberstruggle.org/aegis-certification/",
+    "details": "Cyber Struggle AEGIS\n    $1,700 course exam\n    Branded course required"
+  },
+  {
+    "name": "ASIS PCI",
+    "link": "https://www.asisonline.org/certification/professional-certified-investigator-pci",
+    "details": "ASIS Professional Certified Investigator\n    $485 exam"
+  },
+  {
+    "name": "MAD SOCA",
+    "link": "https://mitre-engenuity.org/mad/",
+    "details": "Mitre Att&ck Defender Security Operations Center Assessment\n                    $299 annual subscription"
+  },
+  {
+    "name": "MAD CTI",
+    "link": "https://mitre-engenuity.org/mad/",
+    "details": "Mitre Att&ck Defender Cyber Threat intelligence\n                    $299 annual subscription"
+  },
+  {
+    "name": "CEH",
+    "link": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/",
+    "details": "EC Council Certified Ethical Hacker\n    $1,199 exam"
+  },
+  {
+    "name": "SOG CAPen",
+    "link": "https://secops.group/product/certified-appsec-pentester/",
+    "details": "The SecOps Group Certified AppSec Pentester\n    $500 exam"
+  },
+  {
+    "name": "C)PTE",
+    "link": "https://www.mile2.com/penetration-testing-engineer-outline/",
+    "details": "Mile2 Certified Penetration Testing Engineer\n    $550 exam"
+  },
+  {
+    "name": "SOG CNPen",
+    "link": "https://secops.group/product/certified-network-pentester/",
+    "details": "The SecOps Group Certified Network Pentester\n    $500 exam"
+  },
+  {
+    "name": "DV RTOS",
+    "link": "https://0xdarkvortex.dev/training-programs/red-team-and-operational-security/",
+    "details": "Dark Vortex Red Team & Operational Security\n    $2500 exam\n    Course required"
+  },
+  {
+    "name": "DV OTD",
+    "link": "https://0xdarkvortex.dev/training-programs/offensive-tool-development/",
+    "details": "Dark Vortex Offensive Tool Development\n    $2000 exam\n    Course required"
+  },
+  {
+    "name": "MVRE",
+    "link": "https://www.mosse-institute.com/certifications/mvre-vulnerability-researcher-and-exploitation-specialist.html",
+    "details": ""
+  },
+  {
+    "name": "MNSE",
+    "link": "https://www.mosse-institute.com/certifications/mnse-network-security-essentials.html",
+    "details": ""
+  },
+  {
+    "name": "PCNSA",
+    "link": "https://www.paloaltonetworks.com/services/education/certification",
+    "details": ""
+  },
+  {
+    "name": "OWSE",
+    "link": "https://www.isecom.org/certification.html",
+    "details": "ISECOM OSSTMM Wireless Security Expert\n    $100 annual sub\n    Unknown exam cost"
+  },
+  {
+    "name": "SC-300",
+    "link": "https://docs.microsoft.com/en-us/learn/certifications/identity-and-access-administrator/",
+    "details": "Microsoft Certfied: Identity and Access Administrator Associate\n    $165 exam"
+  },
+  {
+    "name": "CSA CCSK",
+    "link": "https://cloudsecurityalliance.org/education/ccsk/",
+    "details": "Cloud Security Alliance Certificate of Cloud Security Knowledge\n    $395 exam"
+  },
+  {
+    "name": "C)CSO",
+    "link": "https://mile2.com/ccso_outline/",
+    "details": "Mile2 Certified Cloud Security Officer\n    $550 exam"
+  },
+  {
+    "name": "DCA",
+    "link": "https://training.mirantis.com/dca-certification-exam/",
+    "details": "Docker Certified Associate\n    $195 exam"
+  },
+  {
+    "name": "LPIC-1",
+    "link": "https://www.lpi.org/our-certifications/lpic-1-overview",
+    "details": "Linux Professional Institute Certified: Linux Administrator\n    $400 2 exams"
+  },
+  {
+    "name": "GICSP",
+    "link": "https://www.giac.org/certification/global-industrial-cyber-security-professional-gicsp",
+    "details": "GIAC Global Industrial Security Professional\n    $979 exam\n    SANS course encouraged"
+  },
+  {
+    "name": "GSEC",
+    "link": "https://www.giac.org/certification/security-essentials-gsec",
+    "details": "GIAC Security Essentials Certification\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "MOIS",
+    "link": "https://www.mosse-institute.com/certifications/mois-certified-osint-expert.html",
+    "details": "MOIS Certified OSINT Expert Certification\n  $450 certification programme\n  100% practical. No expiry."
+  },
+  {
+    "name": "CFA",
+    "link": "https://gaqm.org/certifications/information_systems_security/cfa",
+    "details": "GAQM Certified Forensic Analyst\n    $128 exam"
+  },
+  {
+    "name": "CSA",
+    "link": "https://www.eccouncil.org/programs/certified-soc-analyst-csa/",
+    "details": "EC Council Certified SOC Analyst\n    $550 exam"
+  },
+  {
+    "name": "GFACT",
+    "link": "https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/",
+    "details": "GIAC Foundational Cybersecurity Technologies\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "SOG CMPen And",
+    "link": "https://secops.group/product/certified-mobile-pentester-cmpen-android/",
+    "details": "The SecOps Group Certified Mobile Pentester - Android\n    $400 exam"
+  },
+  {
+    "name": "SOG CMPen iOS",
+    "link": "https://secops.group/product/certified-mobile-pentester-cmpen-ios/",
+    "details": "The SecOps Group Certified Mobile Pentester - iOS\n    $400 exam"
+  },
+  {
+    "name": "DV MoS",
+    "link": "https://0xdarkvortex.dev/training-programs/malware-on-steroids/#certification",
+    "details": "Dark Vortex Malware on Steroids\n    $2000 exam\n    Course required"
+  },
+  {
+    "name": "Pentest+",
+    "link": "https://www.comptia.org/certifications/pentest",
+    "details": "CompTIA Pentest+\n    $404 exam"
+  },
+  {
+    "name": "CREST CSAS",
+    "link": "https://www.crest-approved.org/certification-careers/crest-certifications/crest-certified-simulated-attack-specialist",
+    "details": ""
+  },
+  {
+    "name": "ECES",
+    "link": "https://www.eccouncil.org/programs/ec-council-certified-encryption-specialist-eces/",
+    "details": ""
+  },
+  {
+    "name": "JNCIA Sec",
+    "link": "https://www.juniper.net/us/en/training/certification/certification-tracks/junos-security-track/?tab=jnciasec",
+    "details": ""
+  },
+  {
+    "name": "FCA",
+    "link": "https://training.fortinet.com/local/staticpage/view.php?page=fca_cybersecurity",
+    "details": ""
+  },
+  {
+    "name": "WCNA",
+    "link": "https://www.wcnacertification.com/exam-information-1",
+    "details": ""
+  },
+  {
+    "name": "Server+",
+    "link": "https://www.comptia.org/certifications/server",
+    "details": "CompTIA Server+\n    $319 exam"
+  },
+  {
+    "name": "PDSO CDP",
+    "link": "https://www.practical-devsecops.com/certified-devsecops-professional/",
+    "details": "PDSO Certified DevSecOps Professional\n    $799\n    Exam and training bundled"
+  },
+  {
+    "name": "EXIN PCD",
+    "link": "https://www.exin.com/certifications/ccc-professional-cloud-developer-exam",
+    "details": "EXIN Professional Cloud Developer\n    $315 exam"
+  },
+  {
+    "name": "KCNA",
+    "link": "https://www.cncf.io/certification/kcna/",
+    "details": "Cloud Native Computing Foundation Kubernetes and Cloud Native Associate\n    $250 exam\n    Branded course required"
+  },
+  {
+    "name": "Linux+",
+    "link": "https://www.comptia.org/certifications/linux",
+    "details": "CompTIA Linux+\n    $369 exam"
+  },
+  {
+    "name": "AZ-220",
+    "link": "https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty?wt.mc_id=learningredirect_certs-web-wwl",
+    "details": "Azure IoT Developer Specialty\n    $165 exam"
+  },
+  {
+    "name": "CRFS",
+    "link": "https://www.identitymanagementinstitute.org/crfs/",
+    "details": "IMI Certified Red Flag Specialist\n    $295 exam"
+  },
+  {
+    "name": "SSCP",
+    "link": "https://www.isc2.org/Certifications/SSCP",
+    "details": "(ISC)2 Systems Security Certified Practitioner\n    $249 exam"
+  },
+  {
+    "name": "SOG CAP",
+    "link": "https://secops.group/product/certified-application-security-practitioner/",
+    "details": "SecOps Group Certified AppSec Practitioner\n    $249 exam"
+  },
+  {
+    "name": "CCOA",
+    "link": "https://www.isaca.org/credentialing/ccoa",
+    "details": "ISACA Certified Cybersecurity Operations Analyst\n    $760 exam"
+  },
+  {
+    "name": "CREST CPIA",
+    "link": "https://www.crest-approved.org/certification-careers/crest-certifications/crest-practitioner-intrusion-analyst",
+    "details": "CREST Practitioner Intrusion Analyst\n    $425 exam"
+  },
+  {
+    "name": "MESE",
+    "link": "https://www.mosse-institute.com/certifications/mese-certified-enterprise-security-engineer.html",
+    "details": "Mosse Institute Enterprise Security Engineer\n    $450 exam"
+  },
+  {
+    "name": "CREST CPTIA",
+    "link": "https://www.crest-approved.org/certification-careers/crest-certifications/crest-practitioner-threat-intelligence-analyst/",
+    "details": "CREST Practitioner Threat Intelligence Analyst\n    $425 exam"
+  },
+  {
+    "name": "MCPT",
+    "link": "https://www.mosse-institute.com/certifications/mcpt-cloud-penetration-tester.html",
+    "details": "Mosse Institute Cloud Penetration Tester\n    $450 exam"
+  },
+  {
+    "name": "C)PEH",
+    "link": "https://mile2.com/professional-ethical-hacker/",
+    "details": "Mile2 Certified Professional Ethical Hacker\n    $550 exam"
+  },
+  {
+    "name": "GCPEH",
+    "link": "https://gaqm.org/certifications/information_systems_security/cpeh",
+    "details": "GAQM Certified Professional Ethical Hacker\n    $170 exam"
+  },
+  {
+    "name": "CCSA",
+    "link": "https://training-certifications.checkpoint.com/#/courses/Check%20Point%20Certified%20Admin%20(CCSA)%20R80.x",
+    "details": ""
+  },
+  {
+    "name": "ITS-NS",
+    "link": "https://certiport.filecamp.com/s/ITS_OD_102_Network_Security/fi",
+    "details": ""
+  },
+  {
+    "name": "CCT",
+    "link": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/technician-cct.html",
+    "details": "Cisco Certified Technician\n    $165 exam"
+  },
+  {
+    "name": "Cloud+",
+    "link": "https://www.comptia.org/certifications/cloud",
+    "details": "CompTIA Cloud+ \n    $369 exam"
+  },
+  {
+    "name": "Google ACE",
+    "link": "https://cloud.google.com/certification/cloud-engineer",
+    "details": "Google Associate Cloud Engineer\n    $125 exam"
+  },
+  {
+    "name": "SOG CCSP-AWS",
+    "link": "https://secops.group/product/certified-cloud-security-practitioner-aws-ccsp-aws/",
+    "details": "SecOps Group Certified Cloud Security Practitioner - AWS\n    $249 exam"
+  },
+  {
+    "name": "LFCA",
+    "link": "https://training.linuxfoundation.org/certification/certified-it-associate/",
+    "details": "Linux Foundation Certified IT Associate\n    $200 exam"
+  },
+  {
+    "name": "ISA CFS",
+    "link": "https://www.isa.org/training-and-certifications/isa-certification/isa99iec-62443/isa99iec-62443-cybersecurity-certificate-programs/",
+    "details": "ISA Certified Fundamentals Specialist\n    $2,700 course + exam\n    Course required"
+  },
+  {
+    "name": "EITCA/IS",
+    "link": "https://eitca.org/eitca-is-information-security-academy/",
+    "details": "EITCA/IS Information Security Certificate\n    $120 exam"
+  },
+  {
+    "name": "CIPP",
+    "link": "https://iapp.org/certify/cipp",
+    "details": "IAPP Certified Information Privacy Professional\n    $550 exam"
+  },
+  {
+    "name": "Security+",
+    "link": "https://www.comptia.org/certifications/security",
+    "details": "CompTIA Security+\n    $404 exam"
+  },
+  {
+    "name": "ECSS",
+    "link": "https://www.eccouncil.org/programs/certified-security-specialist-ecss/",
+    "details": "EC Council Certified Security Specialist\n    $249 exam"
+  },
+  {
+    "name": "C)DFE",
+    "link": "https://www.mile2.com/cdfe_outline/",
+    "details": "Mile2 Certified Digital Forensics Examiner\n    $550 exam"
+  },
+  {
+    "name": "S-SA",
+    "link": "https://www.seco-institute.org/get-trained/cyber-defense-track/associate-soc-analyst-certification/",
+    "details": "SECO Associate SOC Analyst\n    $480 exam"
+  },
+  {
+    "name": "DV AOPH",
+    "link": "https://0xdarkvortex.dev/training-programs/adversary-operations-and-proactive-hunting/",
+    "details": "Dark Vortex Adversary Operations and Proactive Hunting\n    $2500 exam\n    Course required"
+  },
+  {
+    "name": "SOG NSP",
+    "link": "https://secops.group/product/certified-network-security-practitioner/",
+    "details": "SecOps Group Certified Network Security Practitioner\n    $249 exam"
+  },
+  {
+    "name": "Net+",
+    "link": "https://www.comptia.org/certifications/network",
+    "details": "CompTIA Network+\n    $369 exam"
+  },
+  {
+    "name": "CAMS",
+    "link": "https://www.identitymanagementinstitute.org/cams/",
+    "details": "IMI Certfied Access Management Specialist\n    $195 exam"
+  },
+  {
+    "name": "AZ-900",
+    "link": "https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals",
+    "details": "Microsoft Azure Fundamentals\n    $165 exam"
+  },
+  {
+    "name": "MCSF",
+    "link": "https://www.mosse-institute.com/certifications/mcsf-cloud-services-fundamentals.html",
+    "details": "Mosse Institute Cloud Services Fundamentals\n                    $450 exam"
+  },
+  {
+    "name": "MSAF",
+    "link": "https://www.mosse-institute.com/certifications/msaf-system-administration-fundamentals.html",
+    "details": "Mosse Institute System Administration Fundamentals\n                    $450 exam"
+  },
+  {
+    "name": "Apple ACSP",
+    "link": "https://training.apple.com/us/en/recognition",
+    "details": "Apple Certified Support Professional\n    $250 exam\n    Limited test locations"
+  },
+  {
+    "name": "CACS",
+    "link": "https://www.exidacace.com/Apply/CACS",
+    "details": "Excida IEC 62443 Certified Automation Cybersecurity Specialist\n    $700 exam"
+  },
+  {
+    "name": "TUV COSTE",
+    "link": "https://limessecurity.com/en/academy/ics-211/",
+    "details": "TUV Certified OT Security Technical Expert\n    $3,070 course"
+  },
+  {
+    "name": "EPDPF",
+    "link": "https://www.exin.com/certifications/exin-privacy-and-data-protection-foundation-exam",
+    "details": "EXIN Privacy and Data Protection Foundation\n    $207 exam"
+  },
+  {
+    "name": "TOGAF Fdn",
+    "link": "https://www.opengroup.org/certifications/togaf",
+    "details": "OpenGroup TOGAF Certified\n    $360 exam"
+  },
+  {
+    "name": "CSP",
+    "link": "https://gaqm.org/certifications/scrum_agile/csp-410",
+    "details": "GAQM Certified SAFe Practitioner\n    $170 exam"
+  },
+  {
+    "name": "IIBA CCA",
+    "link": "https://www.iiba.org/certification/iiba-certifications/specialized-business-analysis-certifications/certificate-in-cybersecurity-analysis/",
+    "details": "IIBA Certification in Cybersecurity Analysis\n    $475 exam"
+  },
+  {
+    "name": "CITGP",
+    "link": "https://www.itgovernance.co.uk/shop/product/implementing-it-governance-foundation-principles-training-course",
+    "details": "IBITGQ Certified in Implementing IT Governance - Foundation & Principles\n    ~$2,499 course exam\n    Branded course required"
+  },
+  {
+    "name": "C)ISCAP",
+    "link": "https://www.mile2.com/iscap_outline/",
+    "details": "Mile2 Information Systems Certification and Accredidation Professional\n    $550 exam"
+  },
+  {
+    "name": "CSAP",
+    "link": "https://app.infosecinstitute.com/portal/courses/a0t0y000009lTzjAAE",
+    "details": "Infosec Institute Certified Security Awareness Practitioner\n    $2,599 exam\n    Course required"
+  },
+  {
+    "name": "PECB 27032F",
+    "link": "https://pecb.com/en/education-and-certification-for-individuals/iso-iec-27032/iso-iec-27032-foundation",
+    "details": "PECB ISO/IEC 27032 Foundation\n    $500-749 exam\n    Course required"
+  },
+  {
+    "name": "MCL",
+    "link": "https://www.mosse-institute.com/certifications/mcl-cybersecurity-leadership.html",
+    "details": "Mosse Institute Cybersecurity Leadership\n                    $450 exam"
+  },
+  {
+    "name": "ITS-C",
+    "link": "https://certiport.filecamp.com/s/JTIy1sX0ci0ZI3ss/fi",
+    "details": "Certiport IT Specialist - Cybersecurity\n                    $127 exam"
+  },
+  {
+    "name": "EXIN CIT",
+    "link": "https://www.exin.com/qualification-program/exin-cyber-and-it-security",
+    "details": "EXIN Cyber & IT Security\n    $225 exam"
+  },
+  {
+    "name": "TUV CySec",
+    "link": "https://www.tuv.com/landingpage/en/training-functional-safety-cyber-security/detail-pages/zertifikate/cs-specialist.html",
+    "details": "TUV Rheinland Cybersecurity Specialist (GERMAN)\n    $415 exam\n    Course required"
+  },
+  {
+    "name": "CSST",
+    "link": "https://gaqm.org/certifications/software_security_testing/csst",
+    "details": "GAQM Certified Software Security Tester\n    $170 exam"
+  },
+  {
+    "name": "OPSE",
+    "link": "https://www.isecom.org/certification.html",
+    "details": "ISECOM OSSTMM Professional Security Expert\n    $100 annual sub\n    Unknown exam cost"
+  },
+  {
+    "name": "CSX-F",
+    "link": "https://www.itgovernance.co.uk/shop/product/cyber-incident-response-management-foundation-training-course",
+    "details": "IBITGQ Cyber Incident Response Management Foundation\n    $768 course exam\n    Branded course required"
+  },
+  {
+    "name": "DV MILF",
+    "link": "https://0xdarkvortex.dev/training-programs/malware-incident-and-log-forensics/",
+    "details": "Dark Vortex Malware Incident and Log Foensics\n    $2000 exam"
+  },
+  {
+    "name": "CIRM Fdn",
+    "link": "https://www.itgovernance.co.uk/shop/product/cyber-incident-response-management-foundation-training-course",
+    "details": "IBITGQ Cyber Incident Response Management Foundation\n    $768 course exam\n    Branded course required"
+  },
+  {
+    "name": "EEHF",
+    "link": "https://www.exin.com/certifications/exin-ethical-hacking-foundation-exam",
+    "details": "EXIN Ethical Hacking Foundation\n    $232 exam"
+  },
+  {
+    "name": "S-EHF",
+    "link": "https://www.seco-institute.org/certifications/ethical-hacking-certification-track/ethical-hacking-foundation/",
+    "details": "SECO Ethical Hacking Foundation\n    $460 exam"
+  },
+  {
+    "name": "CHA",
+    "link": "https://www.isecom.org/certification.html",
+    "details": "ISECOM Certified Hacker Analyst\n    $100 annual sub\n    Unknown exam cost"
+  },
+  {
+    "name": "FCF",
+    "link": "https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity",
+    "details": ""
+  },
+  {
+    "name": "PCCET",
+    "link": "https://www.paloaltonetworks.com/services/education/certification",
+    "details": ""
+  },
+  {
+    "name": "AWS CP",
+    "link": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+    "details": "Amazon Web Services Certified Cloud Practitioner\n    $100 exam"
+  },
+  {
+    "name": "EXIN PCA",
+    "link": "https://www.exin.com/certifications/ccc-professional-cloud-administrator-exam",
+    "details": "EXIN Professional Cloud Administrator\n    $315 exam"
+  },
+  {
+    "name": "A+",
+    "link": "https://www.comptia.org/certifications/a",
+    "details": "CompTIA A+\n    $253 exam"
+  },
+  {
+    "name": "CIOTSP",
+    "link": "https://certnexus.com/certification/ciotsp/",
+    "details": "CertNexus Certified Internet of Things Security Practitioner\n    $250 exam"
+  },
+  {
+    "name": "TUV COSP",
+    "link": "https://limessecurity.com/en/academy/ics-201/",
+    "details": "TUV Certified OT Security Practitioner\n    $2725 course"
+  },
+  {
+    "name": "EPDPE",
+    "link": "https://www.exin.com/certifications/exin-privacy-and-data-protection-essentials-exam",
+    "details": "EXIN Privacy and Data Protection Essentials\n    $145 exam"
+  },
+  {
+    "name": "M_o_R Fdn",
+    "link": "https://www.axelos.com/certifications/propath/mor-risk-management/mor-foundation",
+    "details": "Axelos M_o_R Framework Foundation\n    $495 exam"
+  },
+  {
+    "name": "Fair Fdn",
+    "link": "https://risklens-academy.myshopify.com/collections/popular-courses/products/fair-analysis-fundamentals-2",
+    "details": "Fair Institute Analysis Fundamentals\n    $1499 exam\n    Course required"
+  },
+  {
+    "name": "PSM I",
+    "link": "https://www.scrum.org/assessments/professional-scrum-master-i-certification",
+    "details": "Scrum.org Professional Scrum Master I\n    $150 exam"
+  },
+  {
+    "name": "APMG 20000F",
+    "link": "https://apmg-international.com/product/iso-20000",
+    "details": "APMG ISO/IEC 20000 Foundation\n    $308 exam"
+  },
+  {
+    "name": "ISMI CSM",
+    "link": "https://www.ismi.org.uk/csmp/certified-security-manager%C2%AE",
+    "details": "ISMI Certified Security Manager\n    $TBD"
+  },
+  {
+    "name": "BCS FISMP",
+    "link": "https://www.bcs.org/get-qualified/certifications-for-professionals/information-security-and-ccp-scheme-certifications/bcs-foundation-certificate-in-information-security-management-principles/",
+    "details": "BCS Foundation Certifiate in Information Security Management Principles\n    $249 exam"
+  },
+  {
+    "name": "CC",
+    "link": "https://www.isc2.org/Certifications/CC",
+    "details": "ISC2 Certified in Cybersecurity\n    Free exam"
+  },
+  {
+    "name": "S-ISF",
+    "link": "https://www.seco-institute.org/certifications/information-security-certification-track/",
+    "details": "SECO Information Security Foundation\n                    $460 exam"
+  },
+  {
+    "name": "GISF",
+    "link": "https://www.giac.org/certification/information-security-fundamentals-gisf",
+    "details": "GIAC Information Security Fundamentals\n    $979 exam\n    SANS course recommended"
+  },
+  {
+    "name": "TUV CyAware",
+    "link": "https://www.is-its.org/seminare/isits-seminarangebot/cybersecurity-awareness-beauftragter",
+    "details": "TUV Rheinland Cybersecurity Awareness (GERMAN)\n    $415 exam\n    Course required"
+  },
+  {
+    "name": "MASE",
+    "link": "https://www.mosse-institute.com/certifications/mase-certified-application-security-engineer.html",
+    "details": "Mosse Institute Certified Application Security Engineer\n    $450 exam"
+  },
+  {
+    "name": "C)SP",
+    "link": "https://www.mile2.com/csp_outline/",
+    "details": "Mile2 Certified Security Principles\n    $550 exam"
+  },
+  {
+    "name": "CND",
+    "link": "https://www.eccouncil.org/programs/certified-network-defender-cnd/",
+    "details": "EC Council Certified Network Defender\n    $550 exam"
+  },
+  {
+    "name": "C)VA",
+    "link": "https://www.mile2.com/vulnerability-assessor-outline/",
+    "details": "Mile2 Certified Vulnerability Assessor\n    $550 exam"
+  },
+  {
+    "name": "KLCP",
+    "link": "https://kali.training/klcp/",
+    "details": "Kali Linux Certified Professional\n    $299 exam"
+  },
+  {
+    "name": "SC-900",
+    "link": "https://docs.microsoft.com/en-us/learn/certifications/security-compliance-and-identity-fundamentals/",
+    "details": "Microsoft Certified: Security, Compliance, and Identity Fundamentals\n    $99 exam"
+  },
+  {
+    "name": "Cloud Essnt",
+    "link": "https://www.comptia.org/certifications/cloud-essentials",
+    "details": "CompTIA Cloud Essentials\n    $138 exam"
+  },
+  {
+    "name": "ITIL Fdn",
+    "link": "https://www.axelos.com/certifications/itil-certifications/itil-foundation",
+    "details": "ITIL Foundation\n    $383 exam"
+  },
+  {
+    "name": "Project+",
+    "link": "https://www.comptia.org/certifications/project",
+    "details": "CompTIA Project+\n    $369 exam"
+  },
+  {
+    "name": "CIISec ICSF",
+    "link": "https://www.ciisec.org/ICSF_Exam",
+    "details": "CIISec Information and Cybersecurity Fundamentals\n    $450 exam"
+  },
+  {
+    "name": "FEXIN",
+    "link": "https://www.exin.com/certifications/information-security-foundation-based-iso-iec-27001-exam?language_content_entity=en",
+    "details": "EXIN Information Security Foundation\n    $232 exam"
+  },
+  {
+    "name": "EXIN 27001F",
+    "link": "https://www.exin.com/certifications/information-security-foundation-based-iso-iec-27001-exam",
+    "details": "EXIN ISO/IEC 27001 Foundation\n    $232 exam"
+  },
+  {
+    "name": "PECB 27005F",
+    "link": "https://pecb.com/en/education-and-certification-for-individuals/iso-iec-27005/iso-iec-27005-foundation",
+    "details": "PECB ISO/IEC 27005 Foundation\n    $500-749 exam\n    Course required"
+  },
+  {
+    "name": "C CS F",
+    "link": "https://www.itgovernance.co.uk/shop/product/certified-cyber-security-foundation-training-course",
+    "details": "IBITGQ Certified Cyber Security Foundation\n    $725 course exam\n    Branded course required"
+  },
+  {
+    "name": "CIS F",
+    "link": "https://www.itgovernance.co.uk/shop/product/certified-iso-27001-isms-foundation-training-course",
+    "details": "IBITGQ Certified ISO 27001 Information Security Management Specialist Foundation\n    $853 course exam\n    Brandeed course required"
+  },
+  {
+    "name": "S-SPF",
+    "link": "https://www.seco-institute.org/certifications/secure-software-certification-track/secure-programming-foundation/",
+    "details": "SECO Secure Programming Foundation\n                    $460 exam"
+  },
+  {
+    "name": "CSCU",
+    "link": "https://www.eccouncil.org/Certification/certified-secure-computer-user",
+    "details": "EC Council Certified Secure Computer User\n                    $125 exam"
+  },
+  {
+    "name": "MICS",
+    "link": "https://www.mosse-institute.com/certifications/mics-introduction-to-cyber-security.html",
+    "details": "Mosse Institute Introductions to Cyber Security\n                    Free exam"
+  }
+]
