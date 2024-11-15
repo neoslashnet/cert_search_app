@@ -51,7 +51,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background-color: rgba(0, 0, 0, 0.6);
+            background-color: rgba(0, 0, 0, 0.3); /* Reduced opacity */
             z-index: -1;
         }
 
@@ -113,6 +113,7 @@
             justify-content: center; /* Center-aligns grid content */
             align-items: start; /* Aligns items to the start */
             width: 100%; /* Ensures the grid takes up full width */
+            place-items: center; /* Centers single items */
         }
 
         .result-tile {
@@ -122,6 +123,8 @@
             color: #E0E0E0;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
             transition: transform 0.3s;
+            text-align: center;
+            max-width: 300px; /* Optional: limits the width of each tile */
         }
 
         .result-tile:hover {
@@ -175,7 +178,7 @@
                         data.forEach(cert => {
                             const resultTile = document.createElement('div');
                             resultTile.classList.add('result-tile');
-                            resultTile.innerHTML = `<strong>${cert.name}</strong><br>${cert.details}<br><a href="${cert.link}" target="_blank" style="color: #4F77C4;">Learn More</a>`;
+                            resultTile.innerHTML = `<strong>${cert.name}</strong><br><a href="${cert.link}" target="_blank" style="color: #4F77C4;">Learn More</a>`;
                             resultsList.appendChild(resultTile);
                         });
                     }
