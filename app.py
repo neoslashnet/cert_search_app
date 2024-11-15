@@ -18,7 +18,7 @@ def search():
     results = [cert for cert in certifications if query in cert['name'].lower()]
 
     if not results:
-        return jsonify({"message": "Sorry, that is not in our database of certifications."})
+        return jsonify(f{"message": "Sorry, that is not in our database of certifications."})
     
     return jsonify(results)
 
