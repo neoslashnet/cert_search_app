@@ -3,40 +3,49 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Certification Search</title>
+    <title>Cybersecurity Certification Search</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
     <style>
-        /* General and font styling */
+        /* General styling */
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
             font-family: 'Inter', sans-serif;
         }
-        
+
         body {
-            background-color: #121212;
-            color: #FFFFFF;
             display: flex;
-            flex-direction: column;
+            justify-content: center;
             align-items: center;
             min-height: 100vh;
+            background-image: url('/static/images/bg.jpg'); /* Use your background image path */
+            background-size: cover;
+            background-position: center;
+            color: #FFFFFF;
+            text-align: center;
             padding: 20px;
         }
 
         .container {
-            text-align: center;
-            max-width: 600px;
-            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.6); /* Transparent overlay */
+            padding: 30px;
             border-radius: 8px;
-            margin-bottom: 20px;
+            max-width: 600px;
+            width: 100%;
         }
 
         h1 {
-            font-weight: 600;
             font-size: 2rem;
+            font-weight: 600;
             margin-bottom: 20px;
-            color: #E0E0E0;
+            color: #2ECC71;
+        }
+
+        p {
+            font-size: 1rem;
+            margin-bottom: 20px;
+            color: #DDDDDD;
         }
 
         #searchInput {
@@ -46,7 +55,6 @@
             border: none;
             border-radius: 5px;
             outline: none;
-            margin-bottom: 20px;
             background-color: #333;
             color: #fff;
             text-align: center;
@@ -61,62 +69,36 @@
             color: #fff;
             cursor: pointer;
             transition: background-color 0.3s;
-            margin-left: 10px;
+            margin-top: 10px;
         }
 
         button:hover {
             background-color: #27AE60;
         }
 
-        /* Card layout styling */
-        .card {
-            background-color: #333;
-            color: #E0E0E0;
-            padding: 15px;
-            border-radius: 8px;
-            margin-bottom: 15px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-            transition: transform 0.3s;
-        }
-
-        .card:hover {
-            transform: scale(1.02);
-            background-color: #444;
-        }
-
-        .card-title {
-            font-weight: 600;
-            font-size: 1.2rem;
-            color: #2ECC71;
-            margin-bottom: 10px;
-        }
-
-        .card-description {
-            font-size: 0.9rem;
-            line-height: 1.4;
-            margin-bottom: 10px;
-        }
-
         .footer {
             font-size: 0.8rem;
-            color: #999;
+            color: #AAAAAA;
             margin-top: 20px;
-            text-align: center;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Cybersecurity Certification Search</h1>
+        <p>Explore a world of certifications to advance your career in cybersecurity</p>
+        
+        <!-- Search Input and Button -->
         <input type="text" id="searchInput" placeholder="Enter certification name" />
         <button onclick="performSearch()">Search</button>
-        <div id="results"></div>
-    </div>
+        
+        <!-- Results will appear here -->
+        <div id="results" style="margin-top: 20px;"></div>
 
-    <!-- Footer credit with licensing information -->
-    <div class="footer">
-        <p>Data sourced from the <a href="https://pauljerimy.com/security-certification-roadmap/" target="_blank" style="color: #2ECC71;">Security Certification Roadmap</a> by Paul Jerimy, licensed under CC BY-SA 4.0.</p>
-        <p>App designed and deployed by David Galiata.</p>
+        <!-- Footer Credit -->
+        <div class="footer">
+            <p>Data sourced from the <a href="https://pauljerimy.com/security-certification-roadmap/" style="color: #2ECC71;">Security Certification Roadmap</a>. App designed and deployed by David Galiata.</p>
+        </div>
     </div>
 
     <script>
@@ -127,27 +109,16 @@
                 .then(data => {
                     const resultsList = document.getElementById('results');
                     resultsList.innerHTML = '';
-                    
+
                     if (data.message) {
                         const message = document.createElement('p');
                         message.textContent = data.message;
                         resultsList.appendChild(message);
                     } else {
                         data.forEach(cert => {
-                            const card = document.createElement('div');
-                            card.classList.add('card');
-
-                            const title = document.createElement('div');
-                            title.classList.add('card-title');
-                            title.innerHTML = `<a href="${cert.link}" target="_blank" style="color: #2ECC71;">${cert.name}</a>`;
-
-                            const description = document.createElement('p');
-                            description.classList.add('card-description');
-                            description.textContent = cert.details;
-
-                            card.appendChild(title);
-                            card.appendChild(description);
-                            resultsList.appendChild(card);
+                            const result = document.createElement('div');
+                            result.innerHTML = `<p><strong>${cert.name}</strong>: ${cert.details} <a href="${cert.link}" target="_blank">Learn More</a></p>`;
+                            resultsList.appendChild(result);
                         });
                     }
                 });
