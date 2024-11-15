@@ -51,7 +51,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background-color: rgba(0, 0, 0, 0.3); /* Reduced opacity */
+            background-color: rgba(0, 0, 0, 0.3);
             z-index: -1;
         }
 
@@ -104,31 +104,52 @@
             background-color: #6480b4;
         }
 
-        /* Results Tile Styling */
+        /* Results Card Layout */
         #results {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
             gap: 15px;
             margin-top: 20px;
-            justify-content: center; /* Center-aligns grid content */
-            align-items: start; /* Aligns items to the start */
-            width: 100%; /* Ensures the grid takes up full width */
-            place-items: center; /* Centers single items */
+            justify-content: center;
+            width: 100%;
         }
 
         .result-tile {
             background-color: #333;
-            padding: 15px;
-            border-radius: 5px;
+            padding: 20px;
+            border-radius: 10px;
             color: #E0E0E0;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
             transition: transform 0.3s;
-            text-align: center;
-            max-width: 300px; /* Optional: limits the width of each tile */
+            text-align: left;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            min-height: 150px;
         }
 
         .result-tile:hover {
             transform: scale(1.05);
+        }
+
+        .result-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #4F77C4;
+        }
+
+        .result-description {
+            font-size: 0.9rem;
+            margin-top: 10px;
+            color: #DDDDDD;
+        }
+
+        .learn-more {
+            margin-top: 15px;
+            font-size: 0.9rem;
+            color: #4F77C4;
+            text-decoration: none;
+            align-self: flex-start;
         }
 
         .footer {
@@ -178,7 +199,11 @@
                         data.forEach(cert => {
                             const resultTile = document.createElement('div');
                             resultTile.classList.add('result-tile');
-                            resultTile.innerHTML = `<strong>${cert.name}</strong><br><a href="${cert.link}" target="_blank" style="color: #4F77C4;">Learn More</a>`;
+                            resultTile.innerHTML = `
+                                <div class="result-title">${cert.name}</div>
+                                <div class="result-description">${cert.details || "No description available."}</div>
+                                <a href="${cert.link}" target="_blank" class="learn-more">Learn More</a>
+                            `;
                             resultsList.appendChild(resultTile);
                         });
                     }
