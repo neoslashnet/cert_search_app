@@ -104,13 +104,14 @@
             background-color: #6480b4;
         }
 
-        /* Results Card Layout */
+        /* Centered Card Layout */
         #results {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
             gap: 15px;
             margin-top: 20px;
-            justify-content: center;
+            justify-items: center; /* Center-aligns cards */
+            align-items: start;
             width: 100%;
         }
 
@@ -126,6 +127,8 @@
             flex-direction: column;
             justify-content: space-between;
             min-height: 150px;
+            width: 100%;
+            max-width: 300px; /* Ensures a max width for better centering */
         }
 
         .result-tile:hover {
@@ -167,7 +170,7 @@
     <!-- Main Content -->
     <div class="container">
         <h1>Cybersecurity Certification Search</h1>
-        <p>Explore a world of certifications to advance your career in cybersecurity</p>
+        <p>Search for a Cybersecurity certification based on its name</p>
         
         <!-- Search Input and Button -->
         <input type="text" id="searchInput" placeholder="Enter certification name" />
