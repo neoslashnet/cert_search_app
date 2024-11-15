@@ -14,23 +14,50 @@
             font-family: 'Inter', sans-serif;
         }
 
+        /* Body and Background Styling */
         body {
+            background: #384660;
+            overflow: hidden;
+            min-height: 100vh;
             display: flex;
             justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            background-image: url('/static/images/bg.jpg'); /* Use your background image path */
-            background-size: cover;
-            background-position: center;
-            color: #384660;
-            text-align: center;
-            padding: 20px;
+            align-items: flex-start;
+            color: #FFFFFF;
         }
 
+        /* Moving background layers */
+        #bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('/static/images/bg.jpg') no-repeat center center fixed;
+            background-size: cover;
+            z-index: -2;
+            animation: moveBackground 20s linear infinite;
+        }
+
+        @keyframes moveBackground {
+            0% { transform: scale(1) translate(0, 0); }
+            50% { transform: scale(1.05) translate(-10px, -10px); }
+            100% { transform: scale(1) translate(0, 0); }
+        }
+
+        #overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.6);
+            z-index: -1;
+        }
+
+        /* Container Styling */
         .container {
-            background-color: rgba(0, 0, 0, 0.6); /* Transparent overlay */
-            padding: 30px;
-            border-radius: 8px;
+            text-align: center;
+            padding: 40px;
             max-width: 600px;
             width: 100%;
         }
@@ -38,16 +65,16 @@
         h1 {
             font-size: 2rem;
             font-weight: 600;
-            margin-bottom: 20px;
             color: #4F77C4;
         }
 
         p {
             font-size: 1rem;
-            margin-bottom: 20px;
             color: #DDDDDD;
+            margin-bottom: 20px;
         }
 
+        /* Search box styling */
         #searchInput {
             width: 80%;
             padding: 12px;
@@ -58,6 +85,7 @@
             background-color: #333;
             color: #fff;
             text-align: center;
+            margin-bottom: 10px;
         }
 
         button {
@@ -69,11 +97,31 @@
             color: #fff;
             cursor: pointer;
             transition: background-color 0.3s;
-            margin-top: 10px;
         }
 
         button:hover {
             background-color: #6480b4;
+        }
+
+        /* Results Tile Styling */
+        #results {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .result-tile {
+            background-color: #333;
+            padding: 15px;
+            border-radius: 5px;
+            color: #E0E0E0;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            transition: transform 0.3s;
+        }
+
+        .result-tile:hover {
+            transform: scale(1.05);
         }
 
         .footer {
@@ -84,6 +132,11 @@
     </style>
 </head>
 <body>
+    <!-- Background Layers -->
+    <div id="bg"></div>
+    <div id="overlay"></div>
+
+    <!-- Main Content -->
     <div class="container">
         <h1>Cybersecurity Certification Search</h1>
         <p>Explore a world of certifications to advance your career in cybersecurity</p>
@@ -93,11 +146,11 @@
         <button onclick="performSearch()">Search</button>
         
         <!-- Results will appear here -->
-        <div id="results" style="margin-top: 20px;"></div>
+        <div id="results"></div>
 
         <!-- Footer Credit -->
         <div class="footer">
-            <p>Data sourced from the <a href="https://pauljerimy.com/security-certification-roadmap/" style="color: #2ECC71;">Security Certification Roadmap</a>. App designed and deployed by David Galiata.</p>
+            <p>Data sourced from the <a href="https://pauljerimy.com/security-certification-roadmap/" style="color: #4F77C4;">Security Certification Roadmap</a>. App designed and deployed by David Galiata.</p>
         </div>
     </div>
 
@@ -116,9 +169,10 @@
                         resultsList.appendChild(message);
                     } else {
                         data.forEach(cert => {
-                            const result = document.createElement('div');
-                            result.innerHTML = `<p><strong>${cert.name}</strong>: ${cert.details} <a href="${cert.link}" target="_blank">Learn More</a></p>`;
-                            resultsList.appendChild(result);
+                            const resultTile = document.createElement('div');
+                            resultTile.classList.add('result-tile');
+                            resultTile.innerHTML = `<strong>${cert.name}</strong><br>${cert.details}<br><a href="${cert.link}" target="_blank" style="color: #4F77C4;">Learn More</a>`;
+                            resultsList.appendChild(resultTile);
                         });
                     }
                 });
